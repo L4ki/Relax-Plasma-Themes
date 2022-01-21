@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="34"
+   height="110"
+   version="1.1"
+   id="svg140"
+   sodipodi:docname="menubaritem.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview142"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false"
+     inkscape:zoom="4.0416005"
+     inkscape:cx="23.752966"
+     inkscape:cy="31.423195"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg140">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3300" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6">
+    <style
+       id="style4" />
+  </defs>
+  <path
+     id="hover-center"
+     style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 28,82 v 22 H 6 V 82 Z" />
+  <g
+     id="hover-left"
+     transform="translate(0,76)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="M 0,6 H 6 V 28 H 0 Z"
+       id="path5" />
+    <path
+       style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 2,6 H 6 V 28 H 2 Z"
+       id="path7" />
+  </g>
+  <g
+     id="hover-topleft"
+     transform="translate(0,76)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="M 0,0 H 6 V 6 H 0 Z"
+       id="path10" />
+    <path
+       style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 6,2 V 6 H 2 C 2,2 6,2 6,2 Z"
+       id="path12" />
+  </g>
+  <g
+     id="hover-right"
+     transform="translate(0,76)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 28,6 h 6 v 22 h -6 z"
+       id="path15" />
+    <path
+       style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 28,6 h 4 v 22 h -4 z"
+       id="path17" />
+  </g>
+  <g
+     id="hover-top"
+     transform="translate(0,76)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="M 28,0 V 6 H 6 V 0 Z"
+       id="path20" />
+    <path
+       style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 28,2 V 6 H 6 V 2 Z"
+       id="path22" />
+  </g>
+  <g
+     id="hover-bottom"
+     transform="translate(0,76)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 28,28 v 6 H 6 v -6 z"
+       id="path25" />
+    <path
+       style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 28,28 v 4 H 6 v -4 z"
+       id="path27" />
+  </g>
+  <g
+     id="hover-bottomright"
+     transform="translate(0,76)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 28,28 h 6 v 6 h -6 z"
+       id="path30" />
+    <path
+       style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 28,32 v -4 h 4 c 0,4 -4,4 -4,4 z"
+       id="path32" />
+  </g>
+  <g
+     id="hover-topright"
+     transform="translate(0,76)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 28,0 h 6 v 6 h -6 z"
+       id="path35" />
+    <path
+       style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 28,2 v 4 h 4 C 32,2 28,2 28,2 Z"
+       id="path37" />
+  </g>
+  <g
+     id="hover-bottomleft"
+     transform="translate(0,76)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 0,28 h 6 v 6 H 0 Z"
+       id="path40" />
+    <path
+       style="opacity:0.1;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 6,32 V 28 H 2 c 0,4 4,4 4,4 z"
+       id="path42" />
+  </g>
+  <path
+     id="normal-center"
+     fill="transparent"
+     d="M 28,6 V 28 H 6 V 6 Z"
+     style="opacity:0.7;fill:#1d212f;fill-opacity:1" />
+  <g
+     id="normal-left"
+     style="opacity:1;fill:#24283b;fill-opacity:1">
+    <path
+       style="opacity:0.00100002;fill:#24283b;fill-opacity:1"
+       d="M 0,6 H 6 V 28 H 0 Z"
+       id="path46" />
+    <path
+       fill="transparent"
+       d="M 2,6 H 6 V 28 H 2 Z"
+       id="path48"
+       style="opacity:0.7;fill:#1d212f;fill-opacity:1" />
+  </g>
+  <g
+     id="normal-topleft"
+     style="opacity:1;fill:#24283b;fill-opacity:1">
+    <path
+       style="opacity:0.00100002;fill:#24283b;fill-opacity:1"
+       d="M 0,0 H 6 V 6 H 0 Z"
+       id="path51" />
+    <path
+       fill="transparent"
+       d="M 6,2 V 6 H 2 C 2,2 6,2 6,2 Z"
+       id="path53"
+       style="fill:#1d212f;fill-opacity:1;opacity:0.7" />
+  </g>
+  <g
+     id="normal-right"
+     style="opacity:1;fill:#24283b;fill-opacity:1">
+    <path
+       style="opacity:0.00100002;fill:#24283b;fill-opacity:1"
+       d="m 28,6 h 6 v 22 h -6 z"
+       id="path56" />
+    <path
+       fill="transparent"
+       d="m 28,6 h 4 v 22 h -4 z"
+       id="path58"
+       style="fill:#1d212f;fill-opacity:1;opacity:0.7" />
+  </g>
+  <g
+     id="normal-top"
+     style="opacity:1;fill:#24283b;fill-opacity:1">
+    <path
+       style="opacity:0.00100002;fill:#24283b;fill-opacity:1"
+       d="M 28,0 V 6 H 6 V 0 Z"
+       id="path61" />
+    <path
+       fill="transparent"
+       d="M 28,2 V 6 H 6 V 2 Z"
+       id="path63"
+       style="fill:#1d212f;fill-opacity:1;opacity:0.7" />
+  </g>
+  <g
+     id="normal-bottom"
+     style="opacity:1;fill:#24283b;fill-opacity:1">
+    <path
+       style="opacity:0.00100002;fill:#24283b;fill-opacity:1"
+       d="m 28,28 v 6 H 6 v -6 z"
+       id="path66" />
+    <path
+       fill="transparent"
+       d="m 28,28 v 4 H 6 v -4 z"
+       id="path68"
+       style="fill:#1d212f;fill-opacity:1;opacity:0.7" />
+  </g>
+  <g
+     id="normal-bottomright"
+     style="opacity:1;fill:#24283b;fill-opacity:1">
+    <path
+       style="opacity:0.00100002;fill:#24283b;fill-opacity:1"
+       d="m 28,28 h 6 v 6 h -6 z"
+       id="path71" />
+    <path
+       fill="transparent"
+       d="m 28,32 v -4 h 4 c 0,4 -4,4 -4,4 z"
+       id="path73"
+       style="fill:#1d212f;fill-opacity:1;opacity:0.7" />
+  </g>
+  <g
+     id="normal-topright"
+     style="opacity:1;fill:#24283b;fill-opacity:1">
+    <path
+       style="opacity:0.00100002;fill:#24283b;fill-opacity:1"
+       d="m 28,0 h 6 v 6 h -6 z"
+       id="path76" />
+    <path
+       fill="transparent"
+       d="m 28,2 v 4 h 4 C 32,2 28,2 28,2 Z"
+       id="path78"
+       style="fill:#1d212f;fill-opacity:1;opacity:0.7" />
+  </g>
+  <g
+     id="normal-bottomleft"
+     style="opacity:1;fill:#24283b;fill-opacity:1">
+    <path
+       style="opacity:0.00100002;fill:#24283b;fill-opacity:1"
+       d="m 0,28 h 6 v 6 H 0 Z"
+       id="path81" />
+    <path
+       fill="transparent"
+       d="M 6,32 V 28 H 2 c 0,4 4,4 4,4 z"
+       id="path83"
+       style="fill:#1d212f;fill-opacity:1;opacity:0.7" />
+  </g>
+  <path
+     id="pressed-center"
+     style="opacity:0.25;fill:#b0b4cf;fill-opacity:0.99832612"
+     class="ColorScheme-Text"
+     d="M 28,44 V 66 H 6 V 44 Z" />
+  <g
+     id="pressed-left"
+     transform="translate(0,38)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="M 0,6 H 6 V 28 H 0 Z"
+       id="path87" />
+    <path
+       style="opacity:0.25;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 2,6 H 6 V 28 H 2 Z"
+       id="path89" />
+  </g>
+  <g
+     id="pressed-topleft"
+     transform="translate(0,38)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="M 0,0 H 6 V 6 H 0 Z"
+       id="path92" />
+    <path
+       style="opacity:0.25;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 6,2 V 6 H 2 C 2,2 6,2 6,2 Z"
+       id="path94" />
+  </g>
+  <g
+     id="pressed-right"
+     transform="translate(0,38)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 28,6 h 6 v 22 h -6 z"
+       id="path97" />
+    <path
+       style="opacity:0.25;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 28,6 h 4 v 22 h -4 z"
+       id="path99" />
+  </g>
+  <g
+     id="pressed-top"
+     transform="translate(0,38)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="M 28,0 V 6 H 6 V 0 Z"
+       id="path102" />
+    <path
+       style="opacity:0.25;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 28,2 V 6 H 6 V 2 Z"
+       id="path104" />
+  </g>
+  <g
+     id="pressed-bottom"
+     transform="translate(0,38)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 28,28 v 6 H 6 v -6 z"
+       id="path107" />
+    <path
+       style="opacity:0.25;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 28,28 v 4 H 6 v -4 z"
+       id="path109" />
+  </g>
+  <g
+     id="pressed-bottomright"
+     transform="translate(0,38)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 28,28 h 6 v 6 h -6 z"
+       id="path112" />
+    <path
+       style="opacity:0.25;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 28,32 v -4 h 4 c 0,4 -4,4 -4,4 z"
+       id="path114" />
+  </g>
+  <g
+     id="pressed-topright"
+     transform="translate(0,38)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 28,0 h 6 v 6 h -6 z"
+       id="path117" />
+    <path
+       style="opacity:0.25;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 28,2 v 4 h 4 C 32,2 28,2 28,2 Z"
+       id="path119" />
+  </g>
+  <g
+     id="pressed-bottomleft"
+     transform="translate(0,38)"
+     style="opacity:1">
+    <path
+       style="opacity:0.00100002"
+       d="m 0,28 h 6 v 6 H 0 Z"
+       id="path122" />
+    <path
+       style="opacity:0.25;fill:#b0b4cf;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 6,32 V 28 H 2 c 0,4 4,4 4,4 z"
+       id="path124" />
+  </g>
+  <path
+     id="normal-hint-top-margin"
+     style="opacity:0.01;fill:#008080;fill-opacity:1"
+     d="m 16,0 h 2 v 6 h -2 z" />
+  <path
+     id="normal-hint-bottom-margin"
+     style="opacity:0.01;fill:#008080;fill-opacity:1"
+     d="m 16,28 h 2 v 6 h -2 z" />
+  <path
+     id="normal-hint-left-margin"
+     style="opacity:0.01;fill:#008080;fill-opacity:1"
+     d="m 0,16 h 6.0000002 v 2 H 0 Z" />
+  <path
+     id="normal-hint-right-margin"
+     style="opacity:0.01;fill:#008080;fill-opacity:1"
+     d="m 28,16 h 6 v 2 h -6 z" />
+  <path
+     id="hover-hint-top-margin"
+     style="fill:#008080;opacity:0.01"
+     d="m 16,76 h 2 v 6 h -2 z" />
+  <path
+     id="hover-hint-bottom-margin"
+     style="fill:#008080;opacity:0.01"
+     d="m 16,104 h 2 v 6 h -2 z" />
+  <path
+     id="hover-hint-left-margin"
+     style="fill:#008080;opacity:0.01"
+     d="m 0,92 h 6 v 2 H 0 Z" />
+  <path
+     id="hover-hint-right-margin"
+     style="fill:#008080;opacity:0.01"
+     d="m 28,92 h 6 v 2 h -6 z" />
+  <path
+     id="pressed-hint-top-margin"
+     style="fill:#008080;opacity:0.01"
+     d="m 16,38 h 2 v 6 h -2 z" />
+  <path
+     id="pressed-hint-bottom-margin"
+     style="fill:#008080;opacity:0.01"
+     d="m 16,66 h 2 v 6 h -2 z" />
+  <path
+     id="pressed-hint-left-margin"
+     style="fill:#008080;opacity:0.01"
+     d="m 0,54 h 6 v 2 H 0 Z" />
+  <path
+     id="pressed-hint-right-margin"
+     style="fill:#008080;opacity:0.01"
+     d="m 28,54 h 6 v 2 h -6 z" />
+  <rect
+     id="hint-stretch-borders"
+     style="fill:#008080;opacity:0.01"
+     width="2"
+     height="2"
+     x="32"
+     y="108" />
+</svg>
