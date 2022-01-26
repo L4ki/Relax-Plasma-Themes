@@ -1,13 +1,88 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-    <style
-        type="text/css"
-        id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="system-hibernate.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="9.71875"
+     inkscape:cx="-6.0707395"
+     inkscape:cy="6.8938907"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1138" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="current-color-scheme">
         .ColorScheme-Text {
-            color:#232629;
+            color:#eff0f1;
         }
     </style>
-    <g class="ColorScheme-Text" fill="currentColor">
-        <path d="M9.79 5.242l-.868.5 2.146 3.717-3.615-.969-.258.967 4.58 1.227L14.844 16H8.707l-3.353-3.354-.708.708L7.293 16H3v1h4.293l-2.647 2.646.708.708L8.707 17h6.137l-3.069 5.316-4.58 1.227.258.967 3.615-.969-2.146 3.717.867.5 2.147-3.717.968 3.615.965-.26-1.226-4.58L16 17l3.357 5.816-1.226 4.58.965.26.968-3.615 2.147 3.717.867-.5-2.146-3.717 3.615.969.258-.967-4.58-1.227L17.156 17h6.137l3.353 3.354.708-.708L24.707 17H29v-1h-4.293l2.647-2.646-.708-.708L23.293 16H16v-.002l-3.357-5.814 1.226-4.58-.965-.26-.968 3.615zM23 4v1h2.293l-2 2-.293.293V8h4V7h-2.293l2-2L27 4.707V4h-.707z"/>
-        <path d="M20 10v1h2.293l-2 2-.293.293V14h4v-1h-2.293l2-2 .293-.293V10h-.707zm-4-5v1h2.293l-2 2-.293.293V9h4V8h-2.293l2-2L20 5.707V5h-.707z"/>
-    </g>
+  <path
+     id="path944"
+     overflow="visible"
+     d="M 16,4 C 9.37928,4 4,9.37928 4,16 4,22.62072 9.37928,28 16,28 22.62072,28 28,22.62072 28,16 28,9.37928 22.62072,4 16,4 Z"
+     inkscape:connector-curvature="0"
+     style="color:#000000;overflow:visible;opacity:1;fill:#434c5e;fill-opacity:1;stroke-width:0.8" />
+  <g
+     id="g6"
+     transform="matrix(0.01469388,0,0,0.01469388,8.653062,8.6530612)">
+    <path
+       d="M 500,10 C 229.4,10 10,229.4 10,500 10,770.6 229.4,990 500,990 770.6,990 990,770.6 990,500 990,229.4 770.6,10 500,10 Z m 0,898.3 C 274.8,908.3 91.7,725.2 91.7,500 91.7,274.8 274.8,91.7 500,91.7 725.2,91.7 908.3,274.9 908.3,500 908.3,725.1 725.2,908.3 500,908.3 Z"
+       id="path4"
+       style="fill:#c0c5d9;fill-opacity:1" />
+  </g>
+  <rect
+     x="19.293018"
+     y="14.854618"
+     width="1.1950908"
+     height="0.33417743"
+     id="rect12"
+     style="fill:#c0c5d9;fill-opacity:1;stroke-width:0.56307" />
+  <rect
+     x="19.293018"
+     y="15.745597"
+     width="1.1950908"
+     height="0.33417743"
+     id="rect14"
+     style="fill:#c0c5d9;fill-opacity:1;stroke-width:0.56307" />
+  <polygon
+     points="-776.9,580.7 -776.9,579 -778.9,581 -778.9,577.4 -780.1,577.4 -780.1,581 -782.7,578.4 -783.6,579.3 -781,581.9 -784.6,581.9 -784.6,583.1 -781,583.1 -783.6,585.7 -782.7,586.5 -780.1,584 -780.1,587.6 -778.9,587.6 -778.9,584 -776.9,586 -776.9,584.3 -778,583.1 -776.9,583.1 -776.9,581.9 -778,581.9 "
+     id="polygon16"
+     transform="matrix(0.5690896,0,0,0.55696259,457.94771,-309.79892)"
+     style="fill:#c0c5d9;fill-opacity:1" />
+  <path
+     d="m 18.667303,17.305309 v -4.567056 c 0,-0.556952 -0.512278,-1.058256 -1.081356,-1.058256 -0.569071,0 -1.081228,0.445584 -1.081228,1.058256 v 4.567056 c -0.455345,0.334224 -0.739809,0.835488 -0.739809,1.392448 0,0.946832 0.796716,1.78224 1.821037,1.78224 0.967471,0 1.821147,-0.779744 1.821147,-1.78224 0,-0.55696 -0.284573,-1.058224 -0.739791,-1.392448 z m -1.089236,0.211874 0.01096,0.02401 -0.01306,-0.01366 8e-4,6.18e-4 -0.0092,-5.334518 0.01834,-0.01233 0.0063,-0.01602 0.0029,5.362864 -0.01137,0.007 z"
+     id="path6-6"
+     style="fill:#c0c5d9;fill-opacity:1;stroke-width:0.56307"
+     sodipodi:nodetypes="cssscsssccccccccccc" />
+  <rect
+     x="19.293018"
+     y="14.01934"
+     width="1.1950908"
+     height="0.33417743"
+     id="rect10"
+     style="fill:#c0c5d9;fill-opacity:1;stroke-width:0.56307" />
 </svg>
