@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1006"
      id="namedview54"
      showgrid="true"
      inkscape:zoom="6.5416667"
      inkscape:cx="2.1401274"
-     inkscape:cy="22.700637"
+     inkscape:cy="22.77707"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -157,21 +157,21 @@
        inkscape:collect="always"
        xlink:href="#linearGradient860-6"
        id="linearGradient862-3"
-       x1="113.94677"
-       y1="255.36646"
-       x2="406.08289"
-       y2="255.36646"
+       x1="402.94501"
+       y1="285.58868"
+       x2="111.99894"
+       y2="286.40536"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.16455111,0,0,0.14848577,-18.42955,-14.556309)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient860-6">
       <stop
-         style="stop-color:#78acd3;stop-opacity:1"
+         style="stop-color:#3e88bf;stop-opacity:1"
          offset="0"
          id="stop856-7" />
       <stop
-         style="stop-color:#d98cbb;stop-opacity:1"
+         style="stop-color:#c0408e;stop-opacity:1"
          offset="1"
          id="stop858-5" />
     </linearGradient>
