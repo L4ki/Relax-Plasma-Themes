@@ -16,3 +16,13 @@ Relax Light Icons
 ------------------
 
 Added new icons: places, apps, applets, actions
+
+Plasma Theme
+------------
+
+Relax-Plasma
+-------------
+
+Update widget: rasks.svg
+
+
