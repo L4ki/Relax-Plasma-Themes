@@ -23,6 +23,6 @@ Plasma Theme
 Relax-Plasma
 -------------
 
-Update widget: rasks.svg
+Update widget: tasks.svg
 
 
