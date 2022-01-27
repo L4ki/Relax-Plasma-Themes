@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="53"
+   height="23"
+   version="1"
+   id="svg33"
+   sodipodi:docname="pager.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.5613133"
+     inkscape:cx="33.886558"
+     inkscape:cy="11.295519"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1183" />
+  </sodipodi:namedview>
+  <defs
+     id="nova">
+    <style
+       id="current-color-scheme"
+       type="text/css" />
+  </defs>
+  <path
+     id="normal-left"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 1.0000038,8.9990001 v 4.9999989 h 1 V 8.9990001 Z" />
+  <path
+     id="normal-right"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 14.000004,8.9990001 v 4.9999989 h -1 V 8.9990001 Z" />
+  <rect
+     id="normal-bottom"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     width="11"
+     height="1"
+     x="1.9999945"
+     y="14" />
+  <path
+     id="normal-top"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 2.0000038,7.9990001 v 1 H 12.999978 v -1 z" />
+  <path
+     id="hover-left"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 20.000004,8.9990011 V 13.999 h 1 V 8.9990011 Z" />
+  <path
+     id="hover-right"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 33.000004,8.9990011 V 13.999 h -1 V 8.9990011 Z" />
+  <path
+     id="hover-top"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 21.000004,7.9990001 v 0.998752 h 10.99998 v -0.998752 z" />
+  <path
+     id="active-left"
+     style="opacity:0.8;fill:#649ece;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 39.000004,8.9990001 v 4.9999989 h 1 V 8.9990001 Z" />
+  <path
+     id="active-right"
+     style="opacity:0.8;fill:#639ccf;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 52.000003,8.9990001 v 4.9999989 h -1 V 8.9990001 Z" />
+  <rect
+     id="active-bottom"
+     style="opacity:0.8;fill:#649fce;fill-opacity:1"
+     class="ColorScheme-Text"
+     width="11"
+     height="1.001"
+     x="39.999989"
+     y="14" />
+  <path
+     id="active-top"
+     style="opacity:0.8;fill:#649ece;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 40.000004,7.9990001 v 1 h 10.999977 v -1 z" />
+  <rect
+     id="normal-center"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     width="11"
+     height="5"
+     x="1.9999945"
+     y="-14"
+     transform="scale(1,-1)" />
+  <rect
+     id="active-center"
+     style="opacity:0.8;fill:#65a0cd;fill-opacity:1"
+     class="ColorScheme-Text"
+     width="11"
+     height="5"
+     x="39.999989"
+     y="-14"
+     transform="scale(1,-1)" />
+  <rect
+     id="hover-center"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1"
+     class="ColorScheme-Text"
+     width="11"
+     height="5"
+     x="21"
+     y="-14"
+     transform="scale(1,-1)" />
+  <g
+     id="hover-bottom"
+     transform="matrix(2.1999957,0,0,0.99875155,18.800008,-2.4479409)"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1">
+    <rect
+       style="opacity:1;fill:#489ab1;fill-opacity:1"
+       class="ColorScheme-Text"
+       width="5"
+       height="1.001"
+       x="1"
+       y="16.469999"
+       id="rect18" />
+  </g>
+  <path
+     id="hover-bottomleft"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 20.000004,13.999 c 0,0.552285 0.447715,1 1,1 v -1 z" />
+  <path
+     id="hover-topleft"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 20.000004,8.9990001 c 0,-0.552285 0.447715,-1 1,-1 v 1 z" />
+  <path
+     id="hover-topright"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 33.000004,8.9990001 c 0,-0.552285 -0.447715,-1 -1,-1 v 1 z" />
+  <path
+     id="hover-bottomright"
+     style="opacity:0.8;fill:#489ab1;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 33.000004,13.999 c 0,0.552285 -0.447715,1 -1,1 v -1 z" />
+  <path
+     id="normal-bottomleft"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 1.0000038,13.999 c 0,0.552285 0.4477153,1 1,1 v -1 z" />
+  <path
+     id="normal-topleft"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 1.0000038,8.9990001 c 0,-0.552285 0.4477153,-1 1,-1 v 1 z" />
+  <path
+     id="normal-topright"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 14.000004,8.9990001 c 0,-0.552285 -0.447716,-1 -1,-1 v 1 z" />
+  <path
+     id="normal-bottomright"
+     style="opacity:0.3;fill:#666666;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 14.000004,13.999 c 0,0.552285 -0.447716,1 -1,1 v -1 z" />
+  <path
+     id="active-bottomleft"
+     style="opacity:0.8;fill:#649fce;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 39.000013,13.999 c 0,0.552285 0.447716,1 1,1 v -1 z" />
+  <path
+     id="active-topleft"
+     style="opacity:0.8;fill:#649fcd;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 39.000013,8.9990001 c 0,-0.552285 0.447716,-1 1,-1 v 1 z" />
+  <path
+     id="active-topright"
+     style="opacity:0.8;fill:#65a0cd;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 52.000013,8.9990001 c 0,-0.552285 -0.447715,-1 -1,-1 v 1 z" />
+  <path
+     id="active-bottomright"
+     style="opacity:0.8;fill:#65a0cd;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 52.000013,13.999 c 0,0.552285 -0.447715,1 -1,1 v -1 z" />
+</svg>
