@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1005"
      id="namedview78"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="142"
-     inkscape:cy="124.5"
+     inkscape:cx="167"
+     inkscape:cy="87.75"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -691,23 +691,23 @@
        width="1.4938635"
        height="0.41772178"
        id="rect12"
-       style="fill:#c0c5d9;fill-opacity:1;stroke-width:0.703837" />
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.703837" />
     <rect
        x="20.116268"
        y="15.681996"
        width="1.4938635"
        height="0.41772178"
        id="rect14"
-       style="fill:#c0c5d9;fill-opacity:1;stroke-width:0.703837" />
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.703837" />
     <polygon
-       points="-776.9,579 -778.9,581 -778.9,577.4 -780.1,577.4 -780.1,581 -782.7,578.4 -783.6,579.3 -781,581.9 -784.6,581.9 -784.6,583.1 -781,583.1 -783.6,585.7 -782.7,586.5 -780.1,584 -780.1,587.6 -778.9,587.6 -778.9,584 -776.9,586 -776.9,584.3 -778,583.1 -776.9,583.1 -776.9,581.9 -778,581.9 -776.9,580.7 "
+       points="-778.9,581 -778.9,577.4 -780.1,577.4 -780.1,581 -782.7,578.4 -783.6,579.3 -781,581.9 -784.6,581.9 -784.6,583.1 -781,583.1 -783.6,585.7 -782.7,586.5 -780.1,584 -780.1,587.6 -778.9,587.6 -778.9,584 -776.9,586 -776.9,584.3 -778,583.1 -776.9,583.1 -776.9,581.9 -778,581.9 -776.9,580.7 -776.9,579 "
        id="polygon16"
        transform="matrix(0.711362,0,0,0.69620324,568.43464,-391.24865)"
-       style="fill:#c0c5d9;fill-opacity:1" />
+       style="fill:#d6dbf1;fill-opacity:1" />
     <path
        d="m 19.334129,17.631636 v -5.70882 c 0,-0.69619 -0.640348,-1.32282 -1.351695,-1.32282 -0.711339,0 -1.351535,0.55698 -1.351535,1.32282 v 5.70882 c -0.569181,0.41778 -0.924762,1.04436 -0.924762,1.74056 0,1.18354 0.995896,2.2278 2.276297,2.2278 1.209338,0 2.276433,-0.97468 2.276433,-2.2278 0,-0.6962 -0.355716,-1.32278 -0.924738,-1.74056 z m -1.361545,0.264843 0.0137,0.03001 -0.01633,-0.01707 10e-4,7.73e-4 -0.01149,-6.668148 0.02293,-0.01541 0.0079,-0.02002 0.0036,6.70358 -0.01421,0.0088 z"
        id="path6-6"
-       style="fill:#c0c5d9;fill-opacity:1;stroke-width:0.703837"
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.703837"
        sodipodi:nodetypes="cssscsssccccccccccc" />
     <rect
        x="20.116268"
@@ -715,7 +715,7 @@
        width="1.4938635"
        height="0.41772178"
        id="rect10"
-       style="fill:#c0c5d9;fill-opacity:1;stroke-width:0.703837" />
+       style="fill:#d6dbf1;fill-opacity:1;stroke-width:0.703837" />
   </g>
   <g
      id="22-22-system-suspend-hibernate"
