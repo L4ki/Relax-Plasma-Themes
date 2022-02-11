@@ -54,4 +54,15 @@ Relax-Light-Plasma
 
 Update widget: clock.svg
 
+Changelog: 11.02.2022.
+----------------------
 
+Icons
+------
+
+Added new icons: status (22)
+
+Plasma Theme
+------------
+
+Update widgwt: slider.svg
