@@ -65,4 +65,4 @@ Added new icons: status (22)
 Plasma Theme
 ------------
 
-Update widgwt: slider.svg
+Update widget: slider.svg
