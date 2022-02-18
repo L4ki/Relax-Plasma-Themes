@@ -66,3 +66,16 @@ Plasma Theme
 ------------
 
 Update widget: slider.svg
+
+Changelog: 18.02.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: status (24)
+
+Plasma Themes
+------------
+
+Update widget: pager.svg
