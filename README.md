@@ -79,3 +79,16 @@ Plasma Themes
 ------------
 
 Update widget: pager.svg
+
+Changelog: 25.02.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: devices (16)
+
+Plasma Themes
+------------
+
+Update icon: view.svg
