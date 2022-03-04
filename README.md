@@ -92,3 +92,16 @@ Plasma Themes
 ------------
 
 Update icon: view.svg
+
+Changelog: 04.03.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: devices (22)
+
+Plasma Themes
+------------
+
+Update widget: tabbar.svg
