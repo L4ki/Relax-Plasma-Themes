@@ -105,3 +105,21 @@ Plasma Themes
 ------------
 
 Update widget: tabbar.svg
+
+Changelog: 11.03.2022.
+----------------------
+
+Dark Icons
+----------
+
+Added new icons: devices (24)
+
+Light Icons
+-----------
+
+Added new icons: mimetypes (16)
+
+Plasma Themes
+------------
+
+Update icon: window.svg
