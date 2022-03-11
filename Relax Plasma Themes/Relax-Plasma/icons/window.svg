@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="window.svg"
    viewBox="0 0 32 32"
    version="1.1"
@@ -32,12 +32,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="18.561552"
-     inkscape:cx="30.582367"
+     inkscape:cy="14.230523"
+     inkscape:cx="15.644737"
      inkscape:zoom="5.6568545"
      showgrid="false"
      id="namedview58"
-     inkscape:window-height="1006"
+     inkscape:window-height="1015"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,7 +47,7 @@
      borderopacity="1"
      bordercolor="#000000"
      pagecolor="#ffffff"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        id="grid863"
@@ -168,7 +168,7 @@
        class="ColorScheme-ButtonFocus"
        stroke-linecap="square"
        stroke-miterlimit="0"
-       style="fill:#489ab1;fill-opacity:1" />
+       style="fill:#4a9eb5;fill-opacity:1" />
     <path
        id="rect838-6"
        d="M 0,0 H 22 V 22 H 0 Z"
