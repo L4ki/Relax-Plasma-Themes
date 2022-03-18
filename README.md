@@ -123,3 +123,21 @@ Plasma Themes
 ------------
 
 Update icon: window.svg
+
+Changelog: 18.03.2022.
+----------------------
+
+Added new icons: devices (64)
+
+
+Light Plasma Theme
+-------------------
+
+Update widget: action-overlays
+
+Dark Plasma Theme
+-----------------
+
+Update icon: view.svg
+
+
