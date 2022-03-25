@@ -143,7 +143,7 @@ Dark Plasma Theme
 
 Update icon: view.svg
 
-Changelog: 24.03.2022.
+Changelog: 25.03.2022.
 ----------------------
 
 Icons
