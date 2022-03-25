@@ -143,4 +143,19 @@ Dark Plasma Theme
 
 Update icon: view.svg
 
+Changelog: 24.03.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes (22)
+
+
+Plasma Themes
+-------------------
+
+Update widget: viewitem.svg
+
+
 
