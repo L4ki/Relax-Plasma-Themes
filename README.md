@@ -157,5 +157,26 @@ Plasma Themes
 
 Update widget: viewitem.svg
 
+Changelog: 01.04.2022.
+----------------------
+
+Icons
+------
+
+Dark Icons
+----------
+
+Added new icons: emblems (16, 22, 24)
+
+Light Icons
+-----------
+
+Added new icons: mimetypes (24)
+
+
+Plasma Themes
+-------------------
+
+Update widget: background.svg
 
 
