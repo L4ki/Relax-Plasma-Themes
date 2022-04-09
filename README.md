@@ -179,4 +179,17 @@ Plasma Themes
 
 Update widget: background.svg
 
+Changelog: 09.04.2022.
+----------------------
+
+Icons
+------
+Added new icons: mimetypes (32)
+
+Plasma Themes
+-------------------
+
+Update icons: device.svg, klipper.svg
+
+
 
