@@ -191,5 +191,18 @@ Plasma Themes
 
 Update icons: device.svg, klipper.svg
 
+Changelog: 16.04.2022.
+----------------------
+
+Icons
+------
+Added new icons: mimetypes (64)
+
+Plasma Themes
+-------------------
+
+Update widget: action-overlays.svg
+
+
 
 
