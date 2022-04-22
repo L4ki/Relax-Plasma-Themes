@@ -203,6 +203,18 @@ Plasma Themes
 
 Update widget: action-overlays.svg
 
+Changelog: 23.04.2022.
+----------------------
+
+Icons
+------
+Added new icons: status (symbolic)
+
+Plasma Themes
+-------------------
+
+Update icon: audacious.svg
+
 
 
 
