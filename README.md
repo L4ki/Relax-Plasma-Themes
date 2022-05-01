@@ -215,6 +215,18 @@ Plasma Themes
 
 Update icon: audacious.svg
 
+Changelog: 01.05.2022.
+----------------------
+
+Icons
+------
+Added new icons: mimetypes (16)
+
+Plasma Themes
+-------------------
+
+Update widget: configuration-icons.svg
+
 
 
 
