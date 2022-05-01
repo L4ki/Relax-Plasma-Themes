@@ -5,7 +5,7 @@
    viewBox="0 0 32.808331 13.758333"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="configuration-icons.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -42,8 +42,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="59.927299"
-     inkscape:cy="26.339727"
+     inkscape:cx="59.838911"
+     inkscape:cy="54.623998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -612,17 +612,10 @@
          height="3.1749992"
          x="23.812508"
          y="259.42911" />
-      <circle
-         r="1.0583333"
-         cy="261.0166"
-         cx="25.400003"
-         id="path4139"
-         style="opacity:1;fill:#c0c5d9;fill-opacity:1;stroke:none"
-         class="ColorScheme-Background" />
       <path
          inkscape:connector-curvature="0"
          id="path4142"
-         d="m 25.400004,259.42911 a 1.5875,1.5875 0 0 0 -1.5875,1.5875 1.5875,1.5875 0 0 0 1.5875,1.5875 1.5875,1.5875 0 0 0 1.5875,-1.5875 1.5875,1.5875 0 0 0 -1.5875,-1.5875 z m -0.606682,0.79375 0.606682,0.60668 0.606681,-0.60668 0.187069,0.18707 -0.606682,0.60668 0.606682,0.60668 -0.187069,0.18707 -0.606681,-0.60668 -0.606682,0.60668 -0.187068,-0.18707 0.606681,-0.60668 -0.606681,-0.60668 z"
+         d="m 25.399999,259.4291 a 1.5875,1.5875 0 0 0 -1.5875,1.5875 1.5875,1.5875 0 0 0 1.5875,1.5875 1.5875,1.5875 0 0 0 1.5875,-1.5875 1.5875,1.5875 0 0 0 -1.5875,-1.5875 z m -0.606682,0.79375 0.606682,0.60668 0.606681,-0.60668 0.187069,0.18707 -0.606682,0.60668 0.606682,0.60668 -0.187069,0.18707 -0.606681,-0.60668 -0.606682,0.60668 -0.187068,-0.18707 0.606681,-0.60668 -0.606681,-0.60668 z"
          style="opacity:1;fill:#489ab1;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     </g>
     <g
