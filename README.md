@@ -227,6 +227,24 @@ Plasma Themes
 
 Update widget: configuration-icons.svg
 
+Changelog: 08.05.2022.
+----------------------
+
+Dark Icons
+---------
+
+Added new icons: applets 256
+
+Light Icons
+-----------
+
+Added new icons: apps 48
+
+Plasma Themes
+-------------------
+
+Update widget: timer.svg
+
 
 
 
