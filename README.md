@@ -245,6 +245,18 @@ Plasma Themes
 
 Update widget: timer.svg
 
+Changelog: 15.05.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: apps 48
+
+Plasma Themes
+-------------------
+
+Update icon: computer.svg
 
 
 
