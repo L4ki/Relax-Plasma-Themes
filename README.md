@@ -258,5 +258,18 @@ Plasma Themes
 
 Update icon: computer.svg
 
+Changelog: 22.05.2022.
+----------------------
+
+Icons
+-------
+
+Added new icons: devices 16
+
+Plasma Themes
+-------------------
+
+Update icon: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
 
 
