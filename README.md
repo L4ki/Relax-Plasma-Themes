@@ -271,5 +271,23 @@ Plasma Themes
 
 Update icon: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 29.05.2022.
+----------------------
+
+Dark Icons
+----------
+
+Added new icons: mimetypes 22
+
+Light Icons
+----------
+
+Added new icons: actions 16
+
+Plasma Themes
+-------------------
+
+Update icon: system.svg
+
 
 
