@@ -289,5 +289,18 @@ Plasma Themes
 
 Update icon: system.svg
 
+Changelog: 05.06.2022.
+----------------------
+
+Icons
+----------
+
+Added new icons: actions 16
+
+Plasma Themes
+-------------------
+
+Update icon: device, disk, input, kate, keyboard, klipper, preferences, video, redshift
+
 
 
