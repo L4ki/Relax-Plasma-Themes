@@ -14,10 +14,9 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
-     id="22-22-device-notifier"
-     style="fill:#232627;fill-opacity:1">
+     id="22-22-device-notifier">
     <rect
-       style="opacity:0.00100002;fill:#232627;fill-opacity:1"
+       style="opacity:0.00100002"
        width="22"
        height="22"
        x="32"
@@ -29,24 +28,19 @@
        style="fill:#232627;fill-opacity:1;stroke-width:0.223541"
        sodipodi:nodetypes="ccccssssscccccccccccccccccccccscsssssc" />
     <path
-       d="m 44.653332,18 h -2.32 C 42.146666,18 42,18.108968 42,18.297845 v 7.375393 C 42,25.862115 42.146666,26 42.333332,26 h 2.360067 C 44.880068,26 45,25.862115 45,25.673238 V 18.297845 C 45,18.108968 44.839999,18 44.653332,18 Z m -0.253333,7.384612 v 0 H 42.6 v 0 -6.769228 0 h 1.792999 0.0072 z"
+       d="m 44.653332,18 h -2.32 C 42.146666,18 42,18.108968 42,18.297845 v 7.375393 C 42,25.862115 42.146666,26 42.333332,26 h 2.360067 C 44.880068,26 45,25.862115 45,25.673238 V 18.297845 C 45,18.108968 44.839999,18 44.653332,18 Z M 44,25 v 0 h -1 v 0 -6 0 h 1 0 z"
        id="path6-6-7"
        style="fill:#232627;fill-opacity:1;stroke-width:0.134119"
        sodipodi:nodetypes="sssssssssccccccccc" />
-    <path
-       d="m 44.066226,20.000001 h -1.132451 c -0.178807,0 -0.333775,0.175183 -0.333775,0.40876 v 3.182481 c 0,0.218977 0.143046,0.408759 0.333775,0.408759 h 1.132451 c 0.178808,0 0.333774,-0.175183 0.333774,-0.408759 v -3.182481 c 0,-0.233577 -0.143044,-0.40876 -0.333774,-0.40876 z m 0.178808,0.773724 c 0,0.116787 -0.08344,0.218976 -0.178808,0.218976 h -1.084769 c -0.09536,0 -0.178807,-0.102189 -0.178807,-0.218976 v -0.073 c 0,-0.116791 0.08343,-0.218978 0.178807,-0.218978 h 1.084769 c 0.09537,0 0.178808,0.102187 0.178808,0.218978 z"
-       id="path8-7-5"
-       style="fill:#489ab1;fill-opacity:1;stroke-width:0.131917"
-       sodipodi:nodetypes="ssssssssssssssssss" />
     <rect
-       x="42.200001"
+       x="42"
        y="14.000001"
        width="1"
        height="1"
        id="rect10-3"
        style="fill:#232627;fill-opacity:1;stroke-width:0.37689" />
     <rect
-       x="43.799999"
+       x="44"
        y="14.000001"
        width="1"
        height="1"
@@ -80,8 +74,8 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="9.1462202"
-     inkscape:cx="34.823128"
-     inkscape:cy="22.249628"
+     inkscape:cx="28.153707"
+     inkscape:cy="12.956172"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -135,18 +129,18 @@
        id="path8-7"
        style="fill:#489ab1;fill-opacity:1;stroke-width:0.208701" />
     <rect
-       x="-17.5"
+       x="-18"
        y="-4.000001"
-       width="1.5"
+       width="2"
        height="1"
        id="rect10"
-       style="fill:#232627;fill-opacity:1;stroke-width:0.461595" />
+       style="fill:#232627;fill-opacity:1;stroke-width:0.533004" />
     <rect
        x="-15"
        y="-4.000001"
-       width="1.5"
+       width="1.9"
        height="1"
        id="rect12"
-       style="fill:#232627;fill-opacity:1;stroke-width:0.461595" />
+       style="fill:#232627;fill-opacity:1;stroke-width:0.519508" />
   </g>
 </svg>
