@@ -302,5 +302,26 @@ Plasma Themes
 
 Update icon: device, disk, input, kate, keyboard, klipper, preferences, video, redshift
 
+Changelog: 12.06.2022.
+----------------------
+
+Icons
+----------
+
+Update icons: actions 22
+
+Plasma Themes
+-------------------
+
+Dark Plasma Theme
+------------------
+
+Update icon: akgregator, choqok, choqok_offline, document, drive
+
+Light Plasma Theme
+-------------------
+
+choqok, choqok_offline, device
+
 
 
