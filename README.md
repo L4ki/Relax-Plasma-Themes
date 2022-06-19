@@ -323,5 +323,29 @@ Light Plasma Theme
 
 choqok, choqok_offline, device
 
+Changelog: 19.06.2022.
+----------------------
+
+Icons
+----------
+
+Update icons: actions 24
+
+Plasma Themes
+-------------------
+
+Update icons: audio, plasmavault, plasmavault_error
+
+
+Aurorae Themes "Relax-Blur-Aurorae" and "Relax-Blur-Light-Aurorae"
+------------------------------------------------------------------
+
+Update decoration.svg (Customized for Plasma 5.25)
+
+
+
+
+
+
 
 
