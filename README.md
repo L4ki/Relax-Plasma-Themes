@@ -336,6 +336,8 @@ Plasma Themes
 
 Update icons: audio, plasmavault, plasmavault_error
 
+Update widget: slider
+
 
 Aurorae Themes "Relax-Blur-Aurorae" and "Relax-Blur-Light-Aurorae"
 ------------------------------------------------------------------
