@@ -344,6 +344,18 @@ Aurorae Themes "Relax-Blur-Aurorae" and "Relax-Blur-Light-Aurorae"
 
 Update decoration.svg (Customized for Plasma 5.25)
 
+Changelog: 26.06.2022.
+----------------------
+
+Icons
+----------
+
+Update icons: actions 16
+
+Plasma Themes
+-------------------
+
+Update icon: wallet.svg
 
 
 
