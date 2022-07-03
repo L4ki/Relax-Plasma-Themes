@@ -357,6 +357,19 @@ Plasma Themes
 
 Update icon: wallet.svg
 
+Changelog: 03.07.2022.
+----------------------
+
+Icons
+----------
+
+Added new icons: actions 22
+
+Plasma Themes
+-------------------
+
+Update icon: video.svg
+
 
 
 
