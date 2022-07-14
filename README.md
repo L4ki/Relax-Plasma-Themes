@@ -371,6 +371,15 @@ Plasma Themes
 Update icon: video.svg
 
 
+Changelog: 14.07.2022.
+----------------------
+
+Icons
+----------
+
+Update icons: actions 16
+
+
 
 
 
