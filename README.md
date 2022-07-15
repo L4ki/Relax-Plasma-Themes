@@ -380,6 +380,15 @@ Icons
 Update icons: actions 16
 
 
+Changelog: 15.07.2022.
+----------------------
+
+Plasma Themes
+----------
+
+Update icon: TeamViewer.svg
+
+
 
 
 
