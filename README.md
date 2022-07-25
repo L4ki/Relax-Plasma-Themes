@@ -396,6 +396,21 @@ Icons
 
 Added new icons: places
 
+Changelog: 25.07.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Update widget: line.svg
+
+Relax-Aurorae Themes
+---------------------
+
+Update: decoration.svg
+
+
+
 
 
 
