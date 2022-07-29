@@ -409,6 +409,16 @@ Relax-Aurorae Themes
 
 Update: decoration.svg
 
+Changelog: 29.07.2022.
+----------------------
+
+Icons
+----------
+
+Added new icons: actions 16
+
+
+
 
 
 
