@@ -417,6 +417,14 @@ Icons
 
 Added new icons: actions 16
 
+Changelog: 01.08.2022.
+----------------------
+
+Plasma Themes
+----------
+
+Update widget: tabbar.svg
+
 
 
 
