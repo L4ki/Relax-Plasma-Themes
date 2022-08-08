@@ -433,6 +433,14 @@ Icons
 
 Added new icons: actions
 
+Changelog: 08.08.2022.
+----------------------
+
+Plasma Themes
+----------
+
+Update widget: calendar.svg
+
 
 
 
