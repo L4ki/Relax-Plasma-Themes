@@ -5,7 +5,7 @@
    viewBox="0 0 30 30"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="calendar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -14,11 +14,18 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#eff0f1;
+}
+.ColorScheme-Highlight { color:#5e81ac; }
+</style>
   <defs
      id="defs4">
     <style
        type="text/css"
-       id="current-color-scheme" />
+       id="style2548" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -27,9 +34,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.3217885"
-     inkscape:cx="15.140976"
-     inkscape:cy="13.098146"
+     inkscape:zoom="11.768786"
+     inkscape:cx="21.582515"
+     inkscape:cy="15.422151"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,18 +44,19 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:document-rotation="0"
-     inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:lockguides="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -76,11 +84,18 @@
        id="event">
       <path
          id="g17"
-         d="M 29.958684,918.42431 13.9,934.36218 l 8.104,0.01 7.956,-7.867 z"
-         style="opacity:1;fill:#232627;fill-opacity:1;stroke:none;stroke-width:0.975387"
+         d="m 30,918.36218 -16,16 h 16 z"
+         style="stroke:none;fill-opacity:1;fill:#232627;opacity:1"
          inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonFocus"
-         sodipodi:nodetypes="ccccc" />
+         class="ColorScheme-ButtonFocus  ColorScheme-Highlight"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="g20"
+         d="m 30,926.3622 -8,8 h 8 z"
+         style="stroke-width:0.5;stroke:none;fill-opacity:1;fill:#489ab1;opacity:1"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ButtonFocus  ColorScheme-Text"
+         sodipodi:nodetypes="cccc" />
     </g>
   </g>
 </svg>
