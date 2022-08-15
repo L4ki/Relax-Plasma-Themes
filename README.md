@@ -450,6 +450,14 @@ Icons
 
 Added new icons: actions 22
 
+Changelog: 15.08.2022.
+----------------------
+
+Plasma Themes
+----------
+
+Update widget: listitem.svg
+
 
 
 
