@@ -459,6 +459,15 @@ Plasma Themes
 Update widget: listitem.svg
 
 
+Changelog: 19.08.2022.
+----------------------
+
+Icons
+----------
+
+Added new icons: mimetypes
+
+
 
 
 
