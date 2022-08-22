@@ -75,7 +75,7 @@ frame.patternsize=20
 
 [GeneralColors]
 dark.color=#212535
-tooltip.text.color=#fcfcfc
+tooltip.text.color=#232627
 alt.base.color=#eff0f1
 base.color=#eff0f1
 light.color=#5f677f
