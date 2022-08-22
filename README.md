@@ -467,6 +467,21 @@ Icons
 
 Added new icons: mimetypes
 
+Changelog: 22.08.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Update widget: busywidget.svg
+
+Kvantum Theme
+-------------
+
+Update: Relax-Kvantum.svg
+
+Update: Relax-Light-Kvantum.svg
+
 
 
 
