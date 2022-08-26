@@ -482,7 +482,7 @@ Update: Relax-Kvantum.svg
 
 Update: Relax-Light-Kvantum.svg
 
-Changelog: 19.08.2022.
+Changelog: 26.08.2022.
 ----------------------
 
 Dark Icons
