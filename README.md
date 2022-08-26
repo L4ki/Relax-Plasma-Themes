@@ -482,6 +482,19 @@ Update: Relax-Kvantum.svg
 
 Update: Relax-Light-Kvantum.svg
 
+Changelog: 19.08.2022.
+----------------------
+
+Dark Icons
+----------
+
+Update icons: apps
+
+Light Icons
+-----------
+
+Added new icons: actions 24
+
 
 
 
