@@ -6,7 +6,7 @@
    version="1.1"
    viewBox="0 0 32 32.000001"
    sodipodi:docname="input.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -261,17 +261,18 @@
      id="namedview49"
      showgrid="false"
      inkscape:zoom="2.32"
-     inkscape:cx="17.456897"
-     inkscape:cy="119.18104"
+     inkscape:cx="17.887931"
+     inkscape:cy="119.61207"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3869"
      inkscape:document-rotation="0"
      inkscape:lockguides="true"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0"
-     showguides="false">
+     showguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4313"
@@ -1083,7 +1084,7 @@
     <path
        id="path8-9-2"
        d="m 6.174705,67.5 a 2.4999996,2.4999855 0 0 0 -2.5,2.5 2.4999996,2.4999855 0 0 0 2.5,2.5 2.4999996,2.4999855 0 0 0 2.5,-2.5 2.4999996,2.4999855 0 0 0 -2.5,-2.5 z"
-       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.45455"
+       style="fill:#bf616a;fill-opacity:1;stroke:none;stroke-width:1.45455"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -1188,7 +1189,7 @@
     <path
        id="path8-9-2-6"
        d="m -17.6,76.5 a 1.4999996,1.4999915 0 0 0 -1.5,1.5 1.4999996,1.4999915 0 0 0 1.5,1.5 1.4999996,1.4999915 0 0 0 1.5,-1.5 1.4999996,1.4999915 0 0 0 -1.5,-1.5 z"
-       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.872745"
+       style="fill:#bf616a;fill-opacity:1;stroke:none;stroke-width:0.872745"
        inkscape:connector-curvature="0" />
   </g>
   <g
