@@ -496,6 +496,15 @@ Light Icons
 Added new icons: actions 24
 
 
+Changelog: 29.08.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Update icon: input.svg
+
+
 
 
 
