@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="22"
-   height="22"
+   width="32"
+   height="32"
    id="svg3869"
    version="1.1"
-   viewBox="0 0 22 22.000001"
+   viewBox="0 0 32 32.000001"
    sodipodi:docname="input.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -16,7 +16,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
      id="22-22-input-keyboard-virtual-on"
-     transform="translate(0,-32)">
+     transform="translate(-22,-22)">
     <path
        id="path8"
        d="M 4.4,2.5 A 1.4999997,1.4999915 0 0 0 2.9,4 1.4999997,1.4999915 0 0 0 4.4,5.5 1.4999997,1.4999915 0 0 0 5.9,4 1.4999997,1.4999915 0 0 0 4.4,2.5 Z"
@@ -122,7 +122,7 @@
   </g>
   <g
      id="22-22-input-keyboard"
-     transform="translate(0,-64)">
+     transform="translate(-22,-54)">
     <rect
        y="0"
        x="0"
@@ -223,7 +223,7 @@
   </g>
   <g
      id="input-keyboard"
-     transform="translate(22,-74)">
+     transform="translate(0,-64)">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.45455px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect4196"
@@ -324,7 +324,7 @@
   </g>
   <g
      id="input-keyboard-brightness"
-     transform="translate(22,21.99998)">
+     transform="translate(0,31.99998)">
     <rect
        ry="0"
        y="-4.2773436e-06"
@@ -359,26 +359,27 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1002"
      id="namedview49"
      showgrid="false"
      inkscape:zoom="2.32"
-     inkscape:cx="41.37931"
-     inkscape:cy="57.112069"
+     inkscape:cx="35.12931"
+     inkscape:cy="78.232759"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3869"
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0"
-     showguides="false">
+     showguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4313"
-       originx="0"
-       originy="-64.000007" />
+       originx="-22"
+       originy="-54.000009" />
   </sodipodi:namedview>
   <metadata
      id="metadata25">
@@ -643,7 +644,7 @@
   </defs>
   <g
      id="16-16-input-mouse-battery"
-     transform="translate(-319,-371.36219)">
+     transform="translate(-341,-361.36219)">
     <path
        id="path4196"
        transform="translate(319,457.36217)"
@@ -660,7 +661,7 @@
   </g>
   <g
      id="input-mouse-battery"
-     transform="translate(22,149.99996)">
+     transform="translate(0,159.99996)">
     <rect
        style="fill:none"
        id="rect4378-6"
@@ -724,7 +725,7 @@
   </g>
   <g
      id="22-22-input-mouse-battery"
-     transform="translate(22,149.99996)">
+     transform="translate(0,159.99996)">
     <rect
        style="fill:none"
        width="22"
@@ -793,7 +794,7 @@
   </g>
   <g
      id="input-caps-on"
-     transform="translate(22,86)">
+     transform="translate(0,96)">
     <rect
        y="0"
        x="0"
@@ -819,7 +820,8 @@
   </g>
   <g
      id="input-num-on"
-     style="fill:#d6dbf1;fill-opacity:1">
+     style="fill:#d6dbf1;fill-opacity:1"
+     transform="translate(-22,10)">
     <rect
        style="opacity:0.00100002;fill:#d6dbf1;fill-opacity:1;stroke:none;stroke-width:0.713687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect984"
@@ -844,7 +846,7 @@
   </g>
   <g
      id="input-keyboard-battery"
-     transform="translate(22,53.99998)">
+     transform="translate(0,63.99998)">
     <rect
        style="fill:none"
        id="rect4378"
@@ -871,7 +873,7 @@
   </g>
   <g
      id="22-22-input-keyboard-brightness"
-     transform="translate(0,31.99999)">
+     transform="translate(-22,41.99999)">
     <rect
        ry="0"
        y="2.6171874e-06"
@@ -898,7 +900,7 @@
   </g>
   <g
      id="22-22-input-keyboard-battery"
-     transform="translate(0,63.99999)">
+     transform="translate(-22,73.99999)">
     <rect
        style="fill:none"
        width="22"
@@ -925,7 +927,7 @@
   </g>
   <g
      id="22-22-input-caps-on"
-     transform="translate(0,95.99998)"
+     transform="translate(-22,105.99998)"
      style="fill:#d6dbf1;fill-opacity:1">
     <rect
        y="-1.2158202e-06"
@@ -952,7 +954,7 @@
   </g>
   <g
      id="22-22-input-num-on"
-     transform="translate(0,127.99998)"
+     transform="translate(-22,137.99998)"
      style="fill:#d6dbf1;fill-opacity:1">
     <rect
        style="opacity:0.00100002;fill:#d6dbf1;fill-opacity:1;stroke:none;stroke-width:0.49066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -978,7 +980,7 @@
   </g>
   <g
      id="input-keyboard-virtual-on"
-     transform="translate(22,-42)">
+     transform="translate(0,-32)">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.45455px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect4192"
@@ -1083,8 +1085,7 @@
        sodipodi:nodetypes="ccccccccccccscccsccsssssccccssscccccssccsscc" />
   </g>
   <g
-     id="input-keyboard-virtual-off"
-     transform="translate(22,-10)">
+     id="input-keyboard-virtual-off">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.45455px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect4176"
@@ -1185,11 +1186,12 @@
     <path
        id="path8-9-2"
        d="m 6.174705,3.5 a 2.4999996,2.4999855 0 0 0 -2.5,2.5 2.4999996,2.4999855 0 0 0 2.5,2.5 2.4999996,2.4999855 0 0 0 2.5,-2.5 2.4999996,2.4999855 0 0 0 -2.5,-2.5 z"
-       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.45455"
+       style="fill:#bf616a;fill-opacity:1;stroke:none;stroke-width:1.45455"
        inkscape:connector-curvature="0" />
   </g>
   <g
-     id="22-22-input-keyboard-virtual-off">
+     id="22-22-input-keyboard-virtual-off"
+     transform="translate(-22,10)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:bevel"
        id="rect4172"
@@ -1290,7 +1292,7 @@
     <path
        id="path8-9-2-6"
        d="M 4.4,2.5 A 1.4999996,1.4999915 0 0 0 2.9,4 1.4999996,1.4999915 0 0 0 4.4,5.5 1.4999996,1.4999915 0 0 0 5.9,4 1.4999996,1.4999915 0 0 0 4.4,2.5 Z"
-       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.872745"
+       style="fill:#bf616a;fill-opacity:1;stroke:none;stroke-width:0.872745"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
