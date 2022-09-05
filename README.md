@@ -512,6 +512,23 @@ Icons
 
 Added new icons: actions 16
 
+Changelog: 05.09.2022.
+----------------------
+
+Plasma Themes "Relax-Plasma"
+----------------------------
+
+Added icons: dropbox.svg, emblem.svg
+
+Plasma Theme "Relax-Light-Plasma"
+---------------------------------
+
+Update icon: preferences.svg
+
+Added icons: dropbox.svg, emblem.svg
+ 
+
+
 
 
 
