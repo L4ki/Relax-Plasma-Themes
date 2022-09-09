@@ -526,6 +526,24 @@ Plasma Theme "Relax-Light-Plasma"
 Update icon: preferences.svg
 
 Added icons: dropbox.svg, emblem.svg
+
+Changelog: 09.09.2022.
+----------------------
+
+Icons
+-----
+
+Dark Icons
+-----------
+
+Added new icons: actions 32
+
+Light Icons
+-----------
+
+Added new icons: actions 24
+
+
  
 
 
