@@ -543,6 +543,14 @@ Light Icons
 
 Added new icons: actions 24
 
+Changelog: 12.09.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Update icons: notification.svg, notifications.svg
+
 
  
 
