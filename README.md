@@ -559,6 +559,14 @@ Icons
 
 Update icons: places
 
+Changelog: 19.09.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Update widget: actionbutton.svg
+
 
  
 
