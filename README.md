@@ -568,6 +568,19 @@ Plasma Themes
 Update widget: actionbutton.svg
 
 
+Changelog: 23.09.2022.
+----------------------
+
+Dark Icons
+----------
+
+Added new icons: categories 32
+
+Light Icons
+-----------
+
+Added new icons: actions 22
+
  
 
 
