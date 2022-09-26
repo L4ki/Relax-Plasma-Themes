@@ -581,6 +581,19 @@ Light Icons
 
 Added new icons: actions 22
 
+Changelog: 26.09.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Added new icons: kdf.svg, qbittorrent.svg
+
+GTK Themes
+----------
+
+Update: assets, gtk.css
+
  
 
 
