@@ -5,7 +5,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg867"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="redshift.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -33,32 +33,34 @@
      inkscape:snap-bbox="true"
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="-37.410714"
-     inkscape:cy="7.4107143"
+     inkscape:cx="-5.2678571"
+     inkscape:cy="7.5892857"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        opacity="0.41960784"
        color="#3f3fff"
        type="xygrid"
        id="grid1448"
-       originx="-32"
+       originx="-3.5527137e-15"
        originy="0" />
   </sodipodi:namedview>
   <metadata
@@ -75,8 +77,7 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-32)">
+     id="layer1">
     <g
        id="redshift-status-on"
        style="fill:#d6dbf1;fill-opacity:1">
