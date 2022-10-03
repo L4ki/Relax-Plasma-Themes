@@ -603,6 +603,16 @@ Icons
 
 Added new icons: apps 48
 
+Changelog: 03.10.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Added new icon: utilities.svg
+
+Update icon: redshift.svg
+
  
 
 
