@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="20"
-   height="20"
+   width="169"
+   height="23"
    version="1"
    id="svg270"
    sodipodi:docname="button.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -14,28 +14,30 @@
   <sodipodi:namedview
      id="namedview272"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="54.447222"
-     inkscape:cy="23.334524"
+     inkscape:zoom="4"
+     inkscape:cx="93.25"
+     inkscape:cy="42.125"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg270"
      showguides="true"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid8101"
-       originx="-32.783739"
-       originy="-1" />
+       id="grid474"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs5">
@@ -377,7 +379,7 @@
   </defs>
   <g
      id="toolbutton-hover-top"
-     transform="matrix(0.60606059,0,0,0.60606059,23.351478,-26.333681)"
+     transform="matrix(0.60606059,0,0,0.60606059,55.454547,-23.666667)"
      style="opacity:1;fill:#3b5a87;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#3b5a87;fill-opacity:1"
@@ -390,7 +392,7 @@
   </g>
   <g
      id="toolbutton-hover-left"
-     transform="matrix(0.60606059,0,0,0.60606059,23.351478,-26.333681)"
+     transform="matrix(0.60606059,0,0,0.60606059,55.454547,-23.666667)"
      style="opacity:1;fill:#3b5a87;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#3b5a87;fill-opacity:1"
@@ -406,11 +408,11 @@
      style="opacity:0.2;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
      width="6.6666665"
      height="6.6666665"
-     x="44.563599"
-     y="6.9996529" />
+     x="76.666664"
+     y="9.666666" />
   <g
      id="toolbutton-hover-right"
-     transform="matrix(0.60606059,0,0,0.60606059,23.351478,-26.333681)"
+     transform="matrix(0.60606059,0,0,0.60606059,55.454547,-23.666667)"
      style="opacity:1;fill:#3b5a87;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#3b5a87;fill-opacity:1"
@@ -423,7 +425,7 @@
   </g>
   <g
      id="toolbutton-hover-bottom"
-     transform="matrix(0.60606059,0,0,0.60606059,23.351478,-26.333681)"
+     transform="matrix(0.60606059,0,0,0.60606059,55.454547,-23.666667)"
      style="opacity:1;fill:#3b5a87;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#3b5a87;fill-opacity:1"
@@ -436,7 +438,7 @@
   </g>
   <g
      id="toolbutton-hover-topleft"
-     transform="matrix(0.60606059,0,0,0.60606059,23.351478,-26.333681)"
+     transform="matrix(0.60606059,0,0,0.60606059,55.454547,-23.666667)"
      style="opacity:1;fill:#3b5a87;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#3b5a87;fill-opacity:1"
@@ -450,7 +452,7 @@
   </g>
   <g
      id="toolbutton-hover-topright"
-     transform="matrix(0.60606059,0,0,0.60606059,23.351478,-26.333681)"
+     transform="matrix(0.60606059,0,0,0.60606059,55.454547,-23.666667)"
      style="opacity:1;fill:#3b5a87;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#3b5a87;fill-opacity:1"
@@ -464,7 +466,7 @@
   </g>
   <g
      id="toolbutton-hover-bottomleft"
-     transform="matrix(0.60606059,0,0,0.60606059,23.351478,-26.333681)"
+     transform="matrix(0.60606059,0,0,0.60606059,55.454547,-23.666667)"
      style="opacity:1;fill:#3b5a87;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#3b5a87;fill-opacity:1"
@@ -478,7 +480,7 @@
   </g>
   <g
      id="toolbutton-hover-bottomright"
-     transform="matrix(0.60606059,0,0,0.60606059,23.351478,-26.333681)"
+     transform="matrix(0.60606059,0,0,0.60606059,55.454547,-23.666667)"
      style="opacity:1;fill:#3b5a87;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#3b5a87;fill-opacity:1"
@@ -492,7 +494,7 @@
   </g>
   <g
      id="toolbutton-pressed-top"
-     transform="matrix(0.60606061,0,0,0.60606061,62.670806,-26.666667)"
+     transform="matrix(0.60606061,0,0,0.60606061,94.454545,-23.666667)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        id="rect1034-3"
@@ -505,7 +507,7 @@
   </g>
   <g
      id="toolbutton-pressed-left"
-     transform="matrix(0.60606061,0,0,0.60606061,62.670806,-26.666667)"
+     transform="matrix(0.60606061,0,0,0.60606061,94.454545,-23.666667)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        id="rect1019-6"
@@ -521,11 +523,11 @@
      style="opacity:0.5;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
      width="6.6666665"
      height="6.6666665"
-     x="83.882935"
-     y="6.666666" />
+     x="115.66667"
+     y="9.666666" />
   <g
      id="toolbutton-pressed-right"
-     transform="matrix(0.60606061,0,0,0.60606061,62.670806,-26.666667)"
+     transform="matrix(0.60606061,0,0,0.60606061,94.454545,-23.666667)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        id="rect1029-7"
@@ -538,7 +540,7 @@
   </g>
   <g
      id="toolbutton-pressed-bottom"
-     transform="matrix(0.60606061,0,0,0.60606061,62.670806,-26.666667)"
+     transform="matrix(0.60606061,0,0,0.60606061,94.454545,-23.666667)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        id="rect1025-5"
@@ -551,7 +553,7 @@
   </g>
   <g
      id="toolbutton-pressed-topleft"
-     transform="matrix(0.60606061,0,0,0.60606061,62.670806,-26.666667)"
+     transform="matrix(0.60606061,0,0,0.60606061,94.454545,-23.666667)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        id="rect1017-3"
@@ -565,7 +567,7 @@
   </g>
   <g
      id="toolbutton-pressed-topright"
-     transform="matrix(0.60606061,0,0,0.60606061,62.670806,-26.666667)"
+     transform="matrix(0.60606061,0,0,0.60606061,94.454545,-23.666667)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        id="rect1032-5"
@@ -579,7 +581,7 @@
   </g>
   <g
      id="toolbutton-pressed-bottomleft"
-     transform="matrix(0.60606061,0,0,0.60606061,62.670806,-26.666667)"
+     transform="matrix(0.60606061,0,0,0.60606061,94.454545,-23.666667)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        id="rect1021-6"
@@ -593,7 +595,7 @@
   </g>
   <g
      id="toolbutton-pressed-bottomright"
-     transform="matrix(0.60606061,0,0,0.60606061,62.670806,-26.666667)"
+     transform="matrix(0.60606061,0,0,0.60606061,94.454545,-23.666667)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        id="rect1027-2"
@@ -607,7 +609,7 @@
   </g>
   <g
      id="normal-top"
-     transform="translate(-30.783739,1)"
+     transform="translate(1,4)"
      style="fill:#3b5a87;fill-opacity:0.4">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
@@ -623,7 +625,7 @@
   </g>
   <g
      id="normal-left"
-     transform="translate(-30.783739,1)"
+     transform="translate(1,4)"
      style="fill:#3b5a87;fill-opacity:0.4">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
@@ -642,11 +644,11 @@
      style="opacity:1;fill:#3b5a87;fill-opacity:0.4"
      width="6"
      height="6"
-     x="-24.783739"
-     y="6.9999967" />
+     x="7"
+     y="9.9999962" />
   <g
      id="normal-right"
-     transform="translate(-30.783739,1)"
+     transform="translate(1,4)"
      style="fill:#3b5a87;fill-opacity:0.4">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
@@ -662,7 +664,7 @@
   </g>
   <g
      id="normal-bottom"
-     transform="translate(-30.783739,1)"
+     transform="translate(1,4)"
      style="fill:#3b5a87;fill-opacity:0.4">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
@@ -677,97 +679,8 @@
        id="path127" />
   </g>
   <g
-     id="g1495"
-     transform="translate(-63.719499,-21.106982)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1">
-    <path
-       style="opacity:0.01;fill:#008080;fill-opacity:1"
-       d="m 6,21 v 2 h 6 v -2 z"
-       id="path134" />
-    <path
-       style="opacity:0.950091;fill:#008080;fill-opacity:1"
-       d="m 6,23 h 6 v 5 H 6 Z"
-       id="path136" />
-  </g>
-  <g
-     id="g2135"
-     transform="translate(-63.719499,-21.106982)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1">
-    <path
-       style="opacity:0.01;fill:#008080;fill-opacity:1"
-       d="m -1,28 v 6 h 2 v -6 z"
-       id="path139" />
-    <path
-       style="opacity:0.00100002;fill:#008080;fill-opacity:1"
-       d="M 1.0000001,28 H 6 v 5.999999 H 1.0000001 Z"
-       id="path141" />
-  </g>
-  <rect
-     id="rect4314"
-     style="opacity:0.01;fill:#008080;fill-opacity:1"
-     width="6"
-     height="6"
-     x="-57.719498"
-     y="6.8930178" />
-  <g
-     id="g1709"
-     transform="translate(-63.719499,-21.106982)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1">
-    <path
-       style="opacity:0.01;fill:#008080;fill-opacity:1"
-       d="m 17,28 v 6 h 2 v -6 z"
-       id="path145" />
-    <path
-       style="opacity:0.00100002;fill:#008080;fill-opacity:1"
-       d="m 12,28.000001 5,2e-6 V 34 l -5,-2e-6 z"
-       id="path147" />
-  </g>
-  <g
-     id="g4562"
-     transform="translate(-63.719499,-21.106982)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1">
-    <path
-       style="opacity:0.01;fill:#008080;fill-opacity:1"
-       d="m 6,39 v 2 h 6 v -2 z"
-       id="path150" />
-    <path
-       style="opacity:1;fill:#008080;fill-opacity:1"
-       d="m 6,39 h 6 V 34 H 6 Z"
-       id="path152" />
-  </g>
-  <rect
-     id="rect2660"
-     style="opacity:0.01;fill:#008080;fill-opacity:1"
-     width="2"
-     height="0.2"
-     x="-55.719498"
-     y="1.6930168" />
-  <rect
-     id="rect2675"
-     style="opacity:0.01;fill:#008080;fill-opacity:1"
-     width="2"
-     height="0.2"
-     x="-10.893018"
-     y="-62.919498"
-     transform="rotate(-90)" />
-  <rect
-     id="rect2670"
-     style="opacity:0.01;fill:#008080;fill-opacity:1"
-     width="2"
-     height="0.30000001"
-     x="-55.719498"
-     y="17.893017" />
-  <rect
-     id="rect2665"
-     style="opacity:0.01;fill:#008080;fill-opacity:1"
-     width="2"
-     height="0.2"
-     x="-10.893018"
-     y="-46.719498"
-     transform="rotate(-90)" />
-  <g
      id="normal-topleft"
-     transform="translate(-30.783739,1)"
+     transform="translate(1,4)"
      style="fill:#3b5a87;fill-opacity:0.4">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
@@ -783,7 +696,7 @@
   </g>
   <g
      id="normal-topright"
-     transform="translate(-30.783739,1)"
+     transform="translate(1,4)"
      style="fill:#3b5a87;fill-opacity:0.4">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
@@ -799,7 +712,7 @@
   </g>
   <g
      id="normal-bottomleft"
-     transform="translate(-30.783739,1)"
+     transform="translate(1,4)"
      style="fill:#3b5a87;fill-opacity:0.4">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
@@ -815,7 +728,7 @@
   </g>
   <g
      id="normal-bottomright"
-     transform="translate(-30.783739,1)"
+     transform="translate(1,4)"
      style="fill:#3b5a87;fill-opacity:0.4">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
@@ -829,114 +742,78 @@
        d="m 12,17 a 5,5 0 0 0 4.796875,-3.595703 c 0.04072,-0.165792 0.08998,-0.331657 0.117187,-0.496094 a 5,5 0 0 0 0.0059,-0.04883 C 16.966241,12.565625 16.994538,12.276245 17,12 h -5 z"
        id="path176" />
   </g>
-  <g
-     id="g1335"
-     transform="translate(-63.719499,-21.106982)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1">
-    <path
-       style="opacity:0.01;fill:#008080;fill-opacity:1"
-       d="m -1,21 v 7 h 2 c 0.00546,-0.276245 0.033759,-0.565627 0.080078,-0.859375 a 5,5 0 0 1 0.00586,-0.04883 c 0.027206,-0.164435 0.076467,-0.3303 0.117187,-0.496092 A 5,5 0 0 1 6,23 v -2 z"
-       id="path179" />
-  </g>
-  <g
-     id="g1602"
-     transform="translate(-63.719499,-21.106982)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1">
-    <path
-       style="opacity:0.01;fill:#008080;fill-opacity:1"
-       d="m 12,21 v 2 a 5,5 0 0 1 4.796875,3.595703 c 0.04072,0.165792 0.08998,0.331657 0.117187,0.496094 a 5,5 0 0 1 0.0059,0.04883 C 16.966201,27.434373 16.994538,27.723755 17,28 h 2 v -7 z"
-       id="path182" />
-  </g>
-  <g
-     id="g2009"
-     transform="translate(-63.719499,-21.106982)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1">
-    <path
-       style="opacity:0.01;fill:#008080;fill-opacity:1"
-       d="m -1,34 v 7 H 6 V 39 A 5,5 0 0 1 1.203125,35.404297 C 1.162405,35.238505 1.1131438,35.07264 1.0859375,34.908203 a 5,5 0 0 1 -0.00586,-0.04883 C 1.0337592,34.565627 1.0054618,34.276245 1,34 Z"
-       id="path185" />
-  </g>
-  <g
-     id="g1717"
-     transform="translate(-63.719499,-21.106982)"
-     style="opacity:0.01;fill:#008080;fill-opacity:1">
-    <path
-       style="opacity:0.01;fill:#008080;fill-opacity:1"
-       d="m 17,34 c -0.0055,0.276245 -0.0338,0.565627 -0.08008,0.859375 a 5,5 0 0 1 -0.0059,0.04883 c -0.02721,0.164437 -0.07647,0.330302 -0.117187,0.496094 A 5,5 0 0 1 12,39 v 2 h 7 v -7 z"
-       id="path188" />
-  </g>
   <rect
      id="hint-stretch-borders"
      style="opacity:0.01;fill:#008080"
      width="2"
      height="2"
-     x="-12.783739"
-     y="-3"
+     x="19"
+     y="0"
      ry="0" />
   <rect
      id="toolbutton-pressed-hint-left-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.606061"
      width="0.60606062"
      height="4.848485"
-     x="-10.303031"
-     y="77.216286"
+     x="-13.303031"
+     y="109.00002"
      transform="rotate(-90)" />
   <rect
      id="toolbutton-pressed-hint-top-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.606061"
      width="0.60606062"
      height="4.848485"
-     x="86.913231"
-     y="5.9604645e-07" />
+     x="118.69697"
+     y="3.0000005" />
   <rect
      id="toolbutton-pressed-hint-right-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.606061"
      width="0.60606062"
      height="4.848485"
-     x="-10.303031"
-     y="92.36779"
+     x="-13.303031"
+     y="124.15153"
      transform="rotate(-90)" />
   <rect
      id="toolbutton-pressed-hint-bottom-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.606061"
      width="0.60606062"
      height="4.848485"
-     x="86.913231"
-     y="15.151514" />
+     x="118.69697"
+     y="18.151514" />
   <rect
      id="toolbutton-hover-hint-left-margin"
      style="opacity:0.00960657;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
      width="0.60606062"
      height="4.848485"
-     x="-10.636017"
-     y="37.896935"
+     x="-13.30303"
+     y="70"
      transform="rotate(-90)" />
   <rect
      id="toolbutton-hover-hint-top-margin"
      style="opacity:0.01;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
      width="0.60606062"
      height="4.848485"
-     x="47.593903"
-     y="0.33298647" />
+     x="79.696968"
+     y="3" />
   <rect
      id="toolbutton-hover-hint-right-margin"
      style="opacity:0.01;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
      width="0.60606062"
      height="4.848485"
-     x="-10.636017"
-     y="53.048447"
+     x="-13.30303"
+     y="85.151512"
      transform="rotate(-90)" />
   <rect
      id="toolbutton-hover-hint-bottom-margin"
      style="opacity:0.01;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
      width="0.60606062"
      height="4.848485"
-     x="47.593903"
-     y="15.484501" />
+     x="79.696968"
+     y="18.151512" />
   <g
      id="pressed-top"
      style="opacity:0.8"
-     transform="translate(-1,-66)">
+     transform="translate(30.783739,-63)">
     <path
        style="opacity:0.00100002"
        d="m 8,66 h 6 v 7 H 8 Z"
@@ -949,7 +826,7 @@
   <g
      id="pressed-left"
      style="opacity:0.8"
-     transform="translate(-1,-66)">
+     transform="translate(30.783739,-63)">
     <path
        style="opacity:0.00100002"
        d="m 1,73 h 7 v 6 H 1 Z"
@@ -964,12 +841,12 @@
      style="opacity:0.8;fill:#489ab1;fill-opacity:1"
      width="6"
      height="6"
-     x="6.9999981"
-     y="6.9999967" />
+     x="38.783737"
+     y="9.9999962" />
   <g
      id="pressed-right"
      style="opacity:0.8"
-     transform="translate(-1,-66)">
+     transform="translate(30.783739,-63)">
     <path
        style="opacity:0.00100002"
        d="m 14,73 h 7 v 6 h -7 z"
@@ -982,7 +859,7 @@
   <g
      id="pressed-bottom"
      style="opacity:0.8"
-     transform="translate(-1,-66)">
+     transform="translate(30.783739,-63)">
     <path
        style="opacity:0.00100002"
        d="m 8,79 h 6 v 7 H 8 Z"
@@ -995,7 +872,7 @@
   <g
      id="pressed-topleft"
      style="opacity:0.8"
-     transform="translate(-1,-66)">
+     transform="translate(30.783739,-63)">
     <path
        style="opacity:0.00100002"
        d="m 1,66 h 7 v 7 H 1 Z"
@@ -1008,7 +885,7 @@
   <g
      id="pressed-topright"
      style="opacity:0.8"
-     transform="translate(-1,-66)">
+     transform="translate(30.783739,-63)">
     <path
        style="opacity:0.00100002"
        d="m 14,66 h 7 v 7 h -7 z"
@@ -1021,7 +898,7 @@
   <g
      id="pressed-bottomleft"
      style="opacity:0.8"
-     transform="translate(-1,-66)">
+     transform="translate(30.783739,-63)">
     <path
        style="opacity:0.00100002"
        d="m 1,79 h 7 v 7 H 1 Z"
@@ -1034,7 +911,7 @@
   <g
      id="pressed-bottomright"
      style="opacity:0.8"
-     transform="translate(-1,-66)">
+     transform="translate(30.783739,-63)">
     <path
        style="opacity:0.00100002"
        d="m 14,79 h 7 v 7 h -7 z"
@@ -1046,7 +923,7 @@
   </g>
   <g
      id="focus-top"
-     transform="translate(-93.452858,-20.918297)"
+     transform="translate(-61,-18)"
      style="opacity:0.01;fill:#008080;fill-opacity:1">
     <path
        id="rect1018-2"
@@ -1059,7 +936,7 @@
   </g>
   <g
      id="focus-left"
-     transform="translate(-93.452858,-20.918297)"
+     transform="translate(-61,-18)"
      style="opacity:0.01;fill:#008080;fill-opacity:1">
     <path
        id="rect1026-0"
@@ -1075,11 +952,11 @@
      style="opacity:0.01;fill:#008080;fill-opacity:1"
      width="6"
      height="6"
-     x="-87.452858"
-     y="7.0817022" />
+     x="-55.000008"
+     y="9.999999" />
   <g
      id="focus-right"
-     transform="translate(-93.452858,-20.918297)"
+     transform="translate(-61,-18)"
      style="opacity:0.01;fill:#008080;fill-opacity:1">
     <path
        id="rect1028-3"
@@ -1092,7 +969,7 @@
   </g>
   <g
      id="focus-bottom"
-     transform="translate(-93.452858,-20.918297)"
+     transform="translate(-61,-18)"
      style="opacity:0.01;fill:#008080;fill-opacity:1">
     <path
        id="rect1022-0"
@@ -1108,34 +985,34 @@
      style="opacity:0.01;fill:#008080;fill-opacity:1"
      width="2"
      height="0.2"
-     x="-85.452858"
-     y="1.8817019" />
+     x="-53.000008"
+     y="4.7999988" />
   <rect
      id="focus-hint-left-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1"
      width="2"
      height="0.2"
-     x="-11.081702"
-     y="-92.652855"
+     x="-13.999999"
+     y="-60.200005"
      transform="rotate(-90)" />
   <rect
      id="focus-hint-bottom-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1"
      width="2"
      height="0.30000001"
-     x="-85.452858"
-     y="18.081703" />
+     x="-53.000008"
+     y="21" />
   <rect
      id="focus-hint-right-margin"
      style="opacity:0.01;fill:#008080;fill-opacity:1"
      width="2"
      height="0.2"
-     x="-11.081702"
-     y="-76.452858"
+     x="-13.999999"
+     y="-44.000008"
      transform="rotate(-90)" />
   <g
      id="focus-topleft"
-     transform="translate(-93.452858,-20.918297)"
+     transform="translate(-61,-18)"
      style="opacity:0.01;fill:#008080;fill-opacity:1">
     <path
        id="rect1014-2"
@@ -1144,7 +1021,7 @@
   </g>
   <g
      id="focus-topright"
-     transform="translate(-93.452858,-20.918297)"
+     transform="translate(-61,-18)"
      style="opacity:0.01;fill:#008080;fill-opacity:1">
     <path
        id="rect1016-6"
@@ -1153,7 +1030,7 @@
   </g>
   <g
      id="focus-bottomleft"
-     transform="translate(-93.452858,-20.918297)"
+     transform="translate(-61,-18)"
      style="opacity:0.01;fill:#008080;fill-opacity:1">
     <path
        id="rect1024-1"
@@ -1162,7 +1039,7 @@
   </g>
   <g
      id="focus-bottomright"
-     transform="translate(-93.452858,-20.918297)"
+     transform="translate(-61,-18)"
      style="opacity:0.01;fill:#008080;fill-opacity:1">
     <path
        id="rect1020-8"
@@ -1172,7 +1049,7 @@
   <g
      id="hover-top"
      style="fill:#489ab1;fill-opacity:0.2"
-     transform="translate(-53.921999,-8.7202572)">
+     transform="translate(-22.13826,-5.7202572)">
     <path
        style="opacity:0.00100002;fill:#489ab1;fill-opacity:0.2;stroke-width:0.606061"
        d="m 177.80493,8.7202572 h 6.66667 v 6.6666648 h -6.66667 z"
@@ -1185,7 +1062,7 @@
   <g
      id="hover-left"
      style="fill:#489ab1;fill-opacity:0.2"
-     transform="translate(-53.921999,-8.7202572)">
+     transform="translate(-22.13826,-5.7202572)">
     <path
        style="opacity:0.00100002;fill:#489ab1;fill-opacity:0.2;stroke-width:0.606061"
        d="m 171.13826,15.386922 h 6.66667 v 6.666667 h -6.66667 z"
@@ -1197,7 +1074,7 @@
   </g>
   <g
      id="hover-center"
-     transform="translate(-53.921999,-8.7202572)"
+     transform="translate(-22.13826,-5.7202572)"
      style="fill:#489ab1;fill-opacity:0.2">
     <rect
        id="toolbutton-hover-center-6"
@@ -1210,7 +1087,7 @@
   <g
      id="g8272"
      style="fill:#489ab1;fill-opacity:0.2"
-     transform="translate(-32.783739,-1)">
+     transform="translate(-1,2)">
     <g
        id="hover-hint-right-margin"
        style="opacity:0.01;fill:#489ab1;fill-opacity:0.2"
@@ -1228,7 +1105,7 @@
   <g
      id="hover-right"
      style="fill:#489ab1;fill-opacity:0.2"
-     transform="translate(-32.783739,-1)">
+     transform="translate(-1,2)">
     <path
        style="opacity:0.00100002;fill:#489ab1;fill-opacity:0.2;stroke-width:0.606061"
        d="m 163.333,7.667 h 6.66666 v 6.666667 H 163.333 Z"
@@ -1240,7 +1117,7 @@
   </g>
   <g
      id="hover-bottom"
-     transform="translate(-53.921999,-8.7202572)"
+     transform="translate(-22.13826,-5.7202572)"
      style="fill:#489ab1;fill-opacity:0.2">
     <path
        style="opacity:0.00100002;fill:#489ab1;fill-opacity:0.2;stroke-width:0.606061"
@@ -1254,7 +1131,7 @@
   <g
      id="hover-topleft"
      style="fill:#489ab1;fill-opacity:0.2"
-     transform="translate(-53.921999,-8.7202572)">
+     transform="translate(-22.13826,-5.7202572)">
     <path
        style="opacity:0.00100002;fill:#489ab1;fill-opacity:0.2;stroke-width:0.606061"
        d="m 171.13826,8.7202572 h 6.66667 v 6.6666648 h -6.66667 z"
@@ -1267,7 +1144,7 @@
   <g
      id="hover-topright"
      style="fill:#489ab1;fill-opacity:0.2"
-     transform="translate(-53.921999,-8.7202572)">
+     transform="translate(-22.13826,-5.7202572)">
     <path
        style="opacity:0.00100002;fill:#489ab1;fill-opacity:0.2;stroke-width:0.606061"
        d="m 184.4716,8.7202572 h 6.66666 v 6.6666648 h -6.66666 z"
@@ -1280,7 +1157,7 @@
   <g
      id="hover-bottomleft"
      style="fill:#489ab1;fill-opacity:0.2"
-     transform="translate(-53.921999,-8.7202572)">
+     transform="translate(-22.13826,-5.7202572)">
     <path
        style="opacity:0.00100002;fill:#489ab1;fill-opacity:0.2;stroke-width:0.606061"
        d="m 171.13826,22.053589 h 6.66667 v 6.666668 h -6.66667 z"
@@ -1293,7 +1170,7 @@
   <g
      id="hover-bottomright"
      style="fill:#489ab1;fill-opacity:0.2"
-     transform="translate(-53.921999,-8.7202572)">
+     transform="translate(-22.13826,-5.7202572)">
     <path
        style="opacity:0.00100002;fill:#489ab1;fill-opacity:0.2;stroke-width:0.606061"
        d="m 184.4716,22.053589 h 6.66666 v 6.666668 h -6.66666 z"
@@ -1305,19 +1182,19 @@
   </g>
   <g
      id="g2278"
-     transform="translate(-32.783739,-1)" />
+     transform="translate(-1,2)" />
   <g
      id="g2132"
-     transform="translate(-32.783739,-1)" />
+     transform="translate(-1,2)" />
   <g
      id="g3194"
-     transform="translate(-32.783739,-1)" />
+     transform="translate(-1,2)" />
   <g
      id="g2371"
-     transform="translate(-32.783739,-1)" />
+     transform="translate(-1,2)" />
   <g
      id="hover-hint-top-margin"
-     transform="translate(-53.921999,-8.6000004)"
+     transform="translate(-22.13826,-5.6000004)"
      style="fill:#489ab1;fill-opacity:0.2">
     <rect
        id="hover-hint-top-margin-3"
@@ -1329,7 +1206,7 @@
   </g>
   <g
      id="hover-hint-left-margin"
-     transform="translate(-53.921999,-8.6000004)"
+     transform="translate(-22.13826,-5.6000004)"
      style="fill:#489ab1;fill-opacity:0.2">
     <rect
        id="hover-hint-left-margin-6"
@@ -1342,7 +1219,7 @@
   </g>
   <g
      id="hover-hint-bottom-margin"
-     transform="translate(-53.921999,-8.6000004)"
+     transform="translate(-22.13826,-5.6000004)"
      style="fill:#489ab1;fill-opacity:0.2">
     <rect
        id="hover-hint-bottom-margin-7"
