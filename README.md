@@ -630,6 +630,15 @@ Plasma Themes
 
 Update widget: button.svg
 
+
+Changelog: 14.10.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: apps 32
+
  
 
 
