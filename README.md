@@ -656,6 +656,14 @@ Icons
 
 Added new icons: apps
 
+Changelog: 24.10.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Update widget: scrollbar.svg
+
  
 
 
