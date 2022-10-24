@@ -662,7 +662,7 @@ Changelog: 24.10.2022.
 Plasma Themes
 -------------
 
-Update widget: scrollbar.svg
+Update widgets: tasks.svg, scrollbar.svg
 
  
 
