@@ -664,6 +664,14 @@ Plasma Themes
 
 Update widgets: tasks.svg, scrollbar.svg
 
+Changelog: 28.10.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps
+
  
 
 
