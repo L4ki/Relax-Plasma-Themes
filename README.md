@@ -672,6 +672,14 @@ Icons
 
 Added new icons: apps
 
+Changelog: 31.10.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icons: face.svg, knotes.svg
+
  
 
 
