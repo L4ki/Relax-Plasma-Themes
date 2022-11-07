@@ -688,6 +688,14 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 07.11.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: tools.svg
+
  
 
 
