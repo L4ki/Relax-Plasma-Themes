@@ -705,6 +705,14 @@ Icons
 
 Added new icons: apps
 
+Changelog: 14.11.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icons: thunderbird.svg, nulloy.svg
+
  
 
 
