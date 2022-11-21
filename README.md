@@ -729,6 +729,20 @@ Plasma Themes
 
 Added icons: yakuake.svg, sirikali.svg
 
+GTK Themes
+----------
+
+Dark Gtk
+--------
+
+Update: checkbox-checked-hover
+
+Light Gtk
+---------
+
+Update: gtk 3.0
+
+
  
 
 
