@@ -742,6 +742,14 @@ Light Gtk
 
 Update: gtk 3.0
 
+Changelog: 25.11.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
  
 
