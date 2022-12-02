@@ -759,6 +759,14 @@ Plasma Themes
 
 Added icons: krusader_user.svg, krusader_root.svg
 
+Changelog: 02.12.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
  
 
