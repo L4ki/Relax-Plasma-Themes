@@ -790,6 +790,14 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 12.12.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Update icon: kalarm.svg
+
 
  
 
