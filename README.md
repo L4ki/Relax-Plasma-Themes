@@ -798,6 +798,14 @@ Plasma Themes
 
 Update icon: kalarm.svg
 
+Changelog: 16.12.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32
+
 
  
 
