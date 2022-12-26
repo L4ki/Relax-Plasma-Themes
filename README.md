@@ -823,6 +823,15 @@ Icons
 Added new icons: apps 32
 
 
+Changelog: 26.12.2022.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icons: internet.svg, office.svg
+
+
  
 
 
