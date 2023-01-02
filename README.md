@@ -839,6 +839,14 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 02.01.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icons: plasma.svg, veracrypt.svg
+
 
  
 
