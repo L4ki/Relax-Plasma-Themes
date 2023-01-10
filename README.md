@@ -856,6 +856,19 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 10.01.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: krfb.svg
+
+GTK Theme (Dark)
+----------------
+
+Update:  checkbox-checked.png
+
  
 
 
