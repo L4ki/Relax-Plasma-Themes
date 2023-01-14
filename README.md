@@ -869,6 +869,13 @@ GTK Theme (Dark)
 
 Update:  checkbox-checked.png
 
+Changelog: 14.01.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
  
 
 
