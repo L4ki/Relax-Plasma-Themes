@@ -884,6 +884,14 @@ Plasma Themes
 -------------
 
 Added icon: cadence.svg
+
+Changelog: 21.01.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
  
 
 
