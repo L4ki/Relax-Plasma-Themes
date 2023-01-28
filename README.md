@@ -900,6 +900,14 @@ Plasma Themes
 -------------
 
 Added icon: lutris.svg
+
+Changelog: 28.01.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
  
 
 
