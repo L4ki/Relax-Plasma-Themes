@@ -908,6 +908,19 @@ Icons
 -----
 
 Added new icons: apps 32, 48
+
+Changelog: 01.02.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icons: onboard.svg, offline.svg
+
+GTK Theme: "Relax-GTK"
+-----------------------
+
+Update icon:  checkbox-checked-insensitive.png
  
 
 
