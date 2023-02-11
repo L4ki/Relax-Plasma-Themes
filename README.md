@@ -971,6 +971,14 @@ Plasma Themes
 -------------
 
 Added icons: desktop.svg, process.svg
+
+Changelog: 12.02.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
  
 
 
