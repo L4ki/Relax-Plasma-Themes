@@ -995,6 +995,14 @@ Icons
 -----
 
 Added new icons: apps 32, 48
+
+Changelog: 23.02.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: corectrl.svg
  
 
 
