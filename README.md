@@ -1003,6 +1003,14 @@ Plasma Themes
 -------------
 
 Added icon: corectrl.svg
+
+Changelog: 26.02.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
  
 
 
