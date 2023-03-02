@@ -1012,6 +1012,18 @@ Icons
 
 Added new icons: apps 32, 48
  
+Changelog: 02.03.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+GTK Theme: "Relax-GTK"
+-----------------------
+
+Update icon: checkbox-checked-hover.png
 
 
 
