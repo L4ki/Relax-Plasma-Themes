@@ -1025,6 +1025,14 @@ GTK Theme: "Relax-GTK"
 
 Update icon: checkbox-checked-hover.png
 
+Changelog: 05.03.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
