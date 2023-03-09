@@ -1033,6 +1033,14 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 09.03.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: microphone.svg
+
 
 
 
