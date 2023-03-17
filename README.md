@@ -1049,6 +1049,19 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 17.03.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: slc.svg
+
+Aurorare Themes
+---------------
+
+Update: Auroraerc
+
 
 
 
