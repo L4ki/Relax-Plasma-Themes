@@ -1062,6 +1062,14 @@ Aurorare Themes
 
 Update: Auroraerc
 
+Changelog: 20.03.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
