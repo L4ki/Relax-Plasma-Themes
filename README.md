@@ -1070,6 +1070,18 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 24.03.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: antimicro.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update icon:  tab-horz-gap.png
 
 
 
