@@ -1091,6 +1091,16 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 31.03.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: quota.svg
+
+
+
 
 
 
