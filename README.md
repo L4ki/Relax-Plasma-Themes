@@ -1109,6 +1109,15 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 07.04.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: skype.svg
+
+
 
 
 
