@@ -1118,6 +1118,15 @@ Plasma Themes
 Added icon: skype.svg
 
 
+Changelog: 10.04.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
 
 
 
