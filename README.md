@@ -1126,6 +1126,19 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 14.04.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Update widget: viewitem.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update icon:  tab-vert-gap.png
+
 
 
 
