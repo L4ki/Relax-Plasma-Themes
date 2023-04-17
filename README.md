@@ -1139,6 +1139,14 @@ GTK Theme "Relax-GTK"
 
 Update icon:  tab-vert-gap.png
 
+Changelog: 17.04.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
