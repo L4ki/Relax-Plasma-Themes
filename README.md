@@ -1153,7 +1153,7 @@ Changelog: 21.04.2023.
 Plasma Themes
 -------------
 
-Added icont: strawberry.svg
+Added icon: strawberry.svg
 
 
 
