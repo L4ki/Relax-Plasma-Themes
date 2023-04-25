@@ -1155,6 +1155,14 @@ Plasma Themes
 
 Added icon: strawberry.svg
 
+Changelog: 25.04.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
