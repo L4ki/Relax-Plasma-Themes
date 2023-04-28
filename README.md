@@ -1171,6 +1171,10 @@ Plasma Themes
 
 Update widget: listitem.svg
 
+GTK Theme "Relax-GTK"
+--------------------
+
+Added:  gtk-4.0
 
 
 
