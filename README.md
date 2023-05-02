@@ -1176,6 +1176,13 @@ GTK Theme "Relax-GTK"
 
 Added:  gtk-4.0
 
+Changelog: 02.05.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
 
 
 
