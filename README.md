@@ -1197,6 +1197,14 @@ GTK Theme "Relax-GTK"
 
 Update:  focus.png
 
+Changelog: 09.05.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
