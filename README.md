@@ -1206,6 +1206,20 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 13.05.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Update widget: plasmoidheading.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update:  frame.png
+
+
 
 
 
