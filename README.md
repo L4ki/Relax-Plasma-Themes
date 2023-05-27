@@ -1248,6 +1248,19 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 27.05.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: accessories.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update:  line.png
+
 
 
 
