@@ -1261,6 +1261,14 @@ GTK Theme "Relax-GTK"
 
 Update:  line.png
 
+Changelog: 30.05.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
