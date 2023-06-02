@@ -6,7 +6,7 @@
    style="enable-background:new"
    id="svg43"
    sodipodi:docname="view.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1002"
      id="namedview45"
      showgrid="false"
      inkscape:zoom="11.313709"
-     inkscape:cx="25.765202"
+     inkscape:cx="20.240931"
      inkscape:cy="18.782523"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -47,7 +47,9 @@
      inkscape:current-layer="svg43"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     showguides="false">
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid833"
@@ -101,7 +103,7 @@
        style="opacity:0;fill:#ff0000"
        id="path6" />
     <path
-       style="color:#000000;overflow:visible;opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.533333"
+       style="color:#000000;overflow:visible;opacity:1;fill:#489ab1;fill-opacity:0.75;stroke-width:0.533333"
        id="path984"
        overflow="visible"
        d="M 8.0000001,0 C 3.5857071,0 0,3.585707 0,8 0,12.414293 3.585707,16 8.0000001,16 12.41376,16 16,12.414293 16,8 16,3.58624 12.414293,0 8.0000001,0 Z"
