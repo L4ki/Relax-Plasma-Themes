@@ -6,7 +6,7 @@
    height="98"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="scrollbar.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -29,16 +29,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0000003"
-     inkscape:cx="-17.249999"
-     inkscape:cy="39.874997"
+     inkscape:cx="-4.8749996"
+     inkscape:cy="44.624997"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="954"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="44"
      width="48px"
      height="48px"
      showguides="false"
@@ -216,14 +216,7 @@
           <g
              id="g3019">
             <g
-               id="background-vertical-bottom">
-              <path
-                 style="fill:#13436c;fill-opacity:0.40000001;fill-rule:evenodd;stroke:none;stroke-width:0.273861"
-                 d="m 42,31 h -1 v 3 h 1 z"
-                 id="path3915-5"
-                 inkscape:connector-curvature="0"
-                 class="ColorScheme-Text" />
-            </g>
+               id="g689" />
             <path
                class="ColorScheme-ViewBackground"
                inkscape:connector-curvature="0"
@@ -733,112 +726,112 @@
     <rect
        id="background-horizontal-hint-right-inset"
        height="1"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="6"
        x="-28.648603"
        y="53" />
     <rect
        id="background-horizontal-hint-top-inset"
        height="6"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-36"
        y="41.297535" />
     <rect
        id="background-horizontal-hint-left-inset"
        height="1"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="6"
        x="-45.648602"
        y="51" />
     <rect
        id="background-horizontal-hint-bottom-inset"
        height="6"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-33"
        y="58.297531" />
     <rect
        id="background-vertical-hint-right-inset"
        height="1.0000019"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="6"
        x="-28.648603"
        y="18" />
     <rect
        id="background-vertical-hint-top-inset"
        height="6"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-36"
        y="6.0000019" />
     <rect
        id="background-vertical-hint-left-inset"
        height="0.99999809"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
        width="6"
        x="-45.648602"
        y="16.000002" />
     <rect
        id="background-vertical-hint-bottom-inset"
        height="6"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
        width="1"
        x="-33"
        y="23.000004" />
     <rect
        id="slider-hint-right-inset"
        height="1.0000019"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="6"
        x="-53.648602"
        y="18" />
     <rect
        id="slider-hint-top-inset"
        height="6"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-61"
        y="6.0000019" />
     <rect
        id="slider-hint-left-inset"
        height="0.99999809"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
        width="6"
        x="-70.648613"
        y="16.000002" />
     <rect
        id="slider-hint-bottom-inset"
        height="6"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-58"
        y="23.000004" />
     <rect
        id="mouseover-slider-hint-right-inset"
        height="1"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="6"
        x="-53.648602"
        y="53" />
     <rect
        id="mouseover-slider-hint-top-inset"
        height="6"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-61"
        y="41.297535" />
     <rect
        id="mouseover-slider-hint-left-inset"
        height="1"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="6"
        x="-70.648613"
        y="51" />
     <rect
        id="mouseover-slider-hint-bottom-inset"
        height="6"
-       style="opacity:1;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:0.01;fill:#3b5a87;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-58"
        y="58.297531" />
@@ -858,12 +851,6 @@
          d="M 35,10.7 V 10 h -1 v 0.7 z"
          style="color:#1e92ff;fill:#000000;fill-opacity:0.60000002;fill-rule:nonzero;stroke:none;stroke-width:0.0730988" />
     </g>
-    <path
-       class="ColorScheme-ButtonFocus"
-       inkscape:connector-curvature="0"
-       id="path3131-8-3-3-7-3"
-       d="M 35,28 V 27.3 H 34 V 28 Z"
-       style="color:#1e92ff;fill:#000000;fill-opacity:0.60000002;fill-rule:nonzero;stroke:none;stroke-width:0.0730988" />
     <g
        id="background-horizontal-top">
       <path
@@ -969,6 +956,21 @@
          id="path3131-8-3-3-7-7-2"
          d="M 14,28 V 27.3 H 13 V 28 Z"
          style="color:#1e92ff;fill:#000000;fill-opacity:0.80000001;fill-rule:nonzero;stroke:none;stroke-width:0.0730988" />
+    </g>
+    <g
+       id="background-vertical-bottom">
+      <path
+         style="fill:#13436c;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:0.273861"
+         d="m 34.999993,25.000002 h -1 v 3 h 1 z"
+         id="path3915-5-3"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Text" />
+      <path
+         class="ColorScheme-ButtonFocus"
+         inkscape:connector-curvature="0"
+         id="path3131-8-3-3-7-3-6"
+         d="m 34.999993,28.000002 v -0.7 h -1 v 0.7 z"
+         style="color:#1e92ff;fill:#000000;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:0.0730988" />
     </g>
   </g>
 </svg>
