@@ -1290,6 +1290,19 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 10.06.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Update widget: scrollbar.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: tab-up.png
+
 
 
 
