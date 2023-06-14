@@ -1303,6 +1303,14 @@ GTK Theme "Relax-GTK"
 
 Update: tab-up.png
 
+Changelog: 14.06.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
