@@ -1311,6 +1311,19 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 17.06.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Update: metadata.desktop
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: tab-left-active.png, tab-right-active.png
+
 
 
 
