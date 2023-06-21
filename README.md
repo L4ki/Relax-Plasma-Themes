@@ -1324,6 +1324,14 @@ GTK Theme "Relax-GTK"
 
 Update: tab-left-active.png, tab-right-active.png
 
+Changelog: 21.06.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
