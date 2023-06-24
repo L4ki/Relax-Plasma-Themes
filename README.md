@@ -1333,6 +1333,19 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 24.06.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Update icon: kdeconnect.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: gtkrc
+
 
 
 
