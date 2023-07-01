@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    version="1.1"
    id="svg2"
    height="599.20013"
@@ -20,14 +20,14 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1000"
+     inkscape:window-height="998"
      inkscape:window-width="1920"
      inkscape:snap-global="true"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="279.5"
-     inkscape:cx="367"
+     inkscape:cy="350"
+     inkscape:cx="361.5"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -3296,11 +3296,11 @@
        transform="scale(-1)" />
     <rect
        y="-562.36218"
-       x="-248.99998"
+       x="-249.00003"
        height="5"
-       width="6"
+       width="0.99999982"
        id="south-normal-hint-left-margin"
-       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.408248"
        inkscape:label="#south-normal-hint-left-margin"
        transform="scale(-1)" />
     <rect
@@ -3348,11 +3348,11 @@
        style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(-1)" />
     <rect
-       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.408248"
        id="south-normal-hint-right-margin"
-       width="6"
+       width="1"
        height="5"
-       x="-291.99997"
+       x="-286.99994"
        y="-562.36218"
        inkscape:label="#south-normal-hint-right-margin"
        transform="scale(-1)" />
@@ -3402,11 +3402,11 @@
        transform="scale(-1)" />
     <rect
        y="-728.36224"
-       x="-233"
+       x="-231.99998"
        height="5"
-       width="6"
+       width="1"
        id="normal-hint-left-margin"
-       style="opacity:0.02;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:0.02;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.408248"
        inkscape:label="#normal-hint-left-margin"
        transform="scale(-1)" />
     <rect
@@ -3454,11 +3454,11 @@
        style="opacity:0.02;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(-1)" />
     <rect
-       style="opacity:0.02;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:0.02;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.408248"
        id="normal-hint-right-margin"
-       width="6"
+       width="1"
        height="5"
-       x="-283"
+       x="-277.99994"
        y="-728.36224"
        inkscape:label="#normal-hint-right-margin"
        transform="scale(-1)" />
