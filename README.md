@@ -1399,6 +1399,11 @@ GTK Theme "Relax-GTK"
 
 update: tab-down-activ.png
 
+GTK Theme "Relax-Light-GTK"
+---------------------------
+
+Update: gtk-3.0, gtk-4.0
+
 
 
 
