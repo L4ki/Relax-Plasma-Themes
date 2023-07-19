@@ -1435,6 +1435,14 @@ GTK Theme "Relax-Light-GTK"
 
 update: bullet-symbolic.svg
 
+Changelog: 19.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
