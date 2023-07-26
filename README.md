@@ -1466,6 +1466,14 @@ GTK Theme "Relax-Light-GTK"
 
 update: checkmark-symbolic.svg
 
+Changelog: 26.07.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
