@@ -1482,6 +1482,8 @@ Plasma Theme "Relax-Plasma"
 
 Added widget: picker.svg
 
+Update widget: tasks.svg
+
 Plasma Theme "Relax-Light-Plasma"
 ---------------------------------
 
