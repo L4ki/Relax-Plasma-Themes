@@ -30,7 +30,8 @@ Download: https://www.pling.com/p/1692891
 Screenshots:
 -------------
 
-![Screenshot_20220926_093115](https://user-images.githubusercontent.com/45247573/216028260-a3c0dce1-172d-4d52-b264-015c464b06e8.jpg)
+![1](https://github.com/L4ki/Relax-Plasma-Themes/assets/45247573/e1b4de63-21f0-49c7-a7c0-60d075479489)
+
 
 ![Screenshot_20220926_091656](https://user-images.githubusercontent.com/45247573/216028619-cb61189f-154c-4116-9e66-1800a56f0b82.jpg)
 
