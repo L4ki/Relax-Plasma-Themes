@@ -1500,6 +1500,14 @@ GTK Theme "Relax-Light-GTK"
 
 update: dash-symbolic.svg
 
+Changelog: 02.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
