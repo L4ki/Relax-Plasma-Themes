@@ -1556,12 +1556,12 @@ Added widget: monitor.svg
 GTK Theme "Relax-GTK"
 --------------------
 
-update: gtk-2.0
+Update: checkbox-mixed.png
 
 GTK Theme "Relax-Light-GTK"
 ---------------------------
 
-update: checkbox-mixed.png
+Update: gtkrc
 
 
 
