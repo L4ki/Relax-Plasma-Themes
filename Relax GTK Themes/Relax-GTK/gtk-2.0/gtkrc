@@ -26,3 +26,11 @@ include "main.rc"
 include "apps.rc"
 include "hacks.rc"
 include "hacks-dark.rc"
+
+# App stylings
+include "apps/chrome.rc"
+include "apps/gimp.rc"
+include "apps/libreoffice.rc"
+include "apps/terminal.rc"
+include "apps/thunar.rc"
+include "apps/xfce.rc"
