@@ -1626,5 +1626,14 @@ GTK Theme "Relax-Light-GTK"
 Update:  progressbar-bar.png
 
 
+Changelog: 30.08.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
 
 
