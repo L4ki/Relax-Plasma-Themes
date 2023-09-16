@@ -1697,5 +1697,28 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 16.09.2023.
+----------------------
+
+Plasma Theme "Relax-Plasma"
+---------------------------
+
+Update widget: action-overlays.svg
+
+Plasma Theme "Relax-Light-Plasma"
+---------------------------------
+
+Update widget: action-overlays.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: frame-notebook.png
+
+GTK Theme "Relax-Light-GTK"
+---------------------------
+
+Update: menubar-button.png
+
 
 
