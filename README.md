@@ -1720,5 +1720,13 @@ GTK Theme "Relax-Light-GTK"
 
 Update: menubar-button.png
 
+Changelog: 20.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
