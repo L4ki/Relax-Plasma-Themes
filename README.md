@@ -1751,5 +1751,36 @@ GTK Theme "Relax-Light-GTK"
 
 Update: togglebutton-active.png
 
+Changelog: 27.09.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Changelog: 30.09.2023.
+----------------------
+
+Plasma Theme "Relax-Plasma"
+---------------------------
+
+Added: wind-arrows.svg
+
+Plasma Theme "Relax-Light-Plasma"
+---------------------------------
+
+Update widget: actionbutton.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: frame-inline.png
+
+GTK Theme "Relax-Light-GTK"
+---------------------------
+
+Update: toolbutton-active.png
+
 
 
