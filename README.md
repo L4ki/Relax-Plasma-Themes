@@ -1775,7 +1775,7 @@ Update widget: actionbutton.svg
 GTK Theme "Relax-GTK"
 --------------------
 
-Update: frame-inline.png
+Update: frame.png
 
 GTK Theme "Relax-Light-GTK"
 ---------------------------
