@@ -1782,5 +1782,13 @@ GTK Theme "Relax-Light-GTK"
 
 Update: toolbutton-active.png
 
+Changelog: 04.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
