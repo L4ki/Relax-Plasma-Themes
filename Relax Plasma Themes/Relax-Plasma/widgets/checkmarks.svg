@@ -6,7 +6,7 @@
    sodipodi:docname="checkmarks.svg"
    width="44"
    height="26"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -16,29 +16,35 @@
   <sodipodi:namedview
      id="namedview39"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
      height="32px"
      inkscape:current-layer="svg2"
-     inkscape:zoom="9.8125007"
-     inkscape:cx="19.974521"
-     inkscape:cy="5.8089168"
+     inkscape:zoom="11.313709"
+     inkscape:cx="19.312854"
+     inkscape:cy="17.589281"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="993"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid919"
        originx="0"
-       originy="4.4408921e-16" />
+       originy="4.4408921e-16"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <style
      id="current-color-scheme"
