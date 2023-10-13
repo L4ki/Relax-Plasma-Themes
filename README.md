@@ -1821,5 +1821,28 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 14.10.2023.
+----------------------
+
+Plasma Theme "Relax-Plasma"
+---------------------------
+
+Update widget: checkmarks.svg
+
+Plasma Theme "Relax-Light-Plasma"
+---------------------------------
+
+Update widget: checkmarks.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: focus.png
+
+GTK Theme "Relax-Light-GTK"
+---------------------------
+
+Update: toolbutton-hover
+
 
 
