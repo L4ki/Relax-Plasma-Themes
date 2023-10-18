@@ -1844,5 +1844,13 @@ GTK Theme "Relax-Light-GTK"
 
 Update: toolbutton-hover
 
+Changelog: 18.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
