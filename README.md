@@ -1875,5 +1875,13 @@ GTK Theme "Relax-Light-GTK"
 
 Update: button-active.png
 
+Changelog: 25.10.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
