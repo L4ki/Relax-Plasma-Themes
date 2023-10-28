@@ -1,6 +1,7 @@
 # Theme: Relax-Light-GTK
 # Description:  Relax-Light theme for GTK+2.0
 
+
 gtk-color-scheme = "text_color:#232627"
 gtk-color-scheme = "base_color:#fcfcfc"
 gtk-color-scheme = "insensitive_base_color:#e5e5e5"
