@@ -1906,6 +1906,14 @@ GTK Theme "Relax-Light-GTK"
 
 Update: gtkrc
 
+Changelog: 01.11.2023.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
