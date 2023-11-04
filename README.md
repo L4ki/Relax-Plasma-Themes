@@ -1914,6 +1914,21 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 04.11.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: search.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: treeview-separator-ltr.png
+
+
+
 
 
 
