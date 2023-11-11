@@ -1927,6 +1927,28 @@ GTK Theme "Relax-GTK"
 
 Update: treeview-separator-ltr.png
 
+Changelog: 11.11.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: widget.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: treeview-separator-rtl.png
+
+GTK Theme "Relax-Light-GTK"
+---------------------------
+
+Update: scrollbar-slider-vertical-active.png
 
 
 
