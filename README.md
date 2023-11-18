@@ -1950,6 +1950,26 @@ GTK Theme "Relax-Light-GTK"
 
 Update: scrollbar-slider-vertical-active.png
 
+Changelog: 18.11.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Update widget: busywidget.svg
+
+GTK Theme "Relax-GTK"
+--------------------
+
+Update: progressbar-vert-trough.png
+
+
+
 
 
 
