@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    width="214"
    height="214"
    sodipodi:docname="clock.svg"
@@ -19,7 +19,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1005"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -43,11 +43,12 @@
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        empspacing="5"
        enabled="true"
-       visible="true"
+       visible="false"
        id="grid5592"
        type="xygrid"
        snapvisiblegridlinesonly="true"
@@ -56,7 +57,10 @@
        empcolor="#0000ff"
        empopacity="0.07843137"
        originx="7.0000277"
-       originy="6.9999917" />
+       originy="6.9999917"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <sodipodi:guide
        id="guide4454"
        position="1303.8644,-777.48023"
@@ -652,8 +656,7 @@
        xlink:href="#rect5450"
        style="opacity:1;fill:#c0c5d9;fill-opacity:1;stroke:none"
        id="path4679"
-       inkscape:href="#rect5450"
-       d="m 976.55664,550.60156 1.44336,3.15625 33.3535,25.05664 2.0059,-2.75586 -33.30081,-25.01953 h -0.002 z" />
+       inkscape:href="#rect5450" />
     <circle
        style="fill:#1f252f;fill-opacity:1;stroke:none"
        id="path5455-2"
@@ -669,8 +672,7 @@
        xlink:href="#path5455-2"
        style="fill:#1f252f;fill-opacity:1;stroke:none"
        id="path4681"
-       inkscape:href="#path5455-2"
-       d="m 1017.4629,576.21484 c -1.3094,-1.1e-4 -2.6112,0.53895 -3.5371,1.46485 -0.9259,0.92589 -1.465,2.2277 -1.4649,3.53711 -1e-4,1.30941 0.539,2.61121 1.4649,3.53711 0.9259,0.92589 2.2277,1.46495 3.5371,1.46484 1.3091,-2.9e-4 2.6096,-0.53899 3.5351,-1.46484 0.9256,-0.92586 1.465,-2.22796 1.4649,-3.53711 10e-5,-1.30916 -0.5393,-2.61126 -1.4649,-3.53711 -0.9255,-0.92586 -2.226,-1.46455 -3.5351,-1.46485 z" />
+       inkscape:href="#path5455-2" />
   </g>
   <g
      inkscape:label="#g6188"
