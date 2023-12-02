@@ -1986,6 +1986,24 @@ GTK Theme "Relax-GTK"
 
 Update: progressbar-horz-trough.png
 
+Changelog: 02.12.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Update widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+GTK Themes "Relax-GTK"
+--------------------
+
+Update: styles
+
 
 
 
