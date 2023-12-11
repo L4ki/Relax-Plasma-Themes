@@ -2024,6 +2024,11 @@ GTK Themes "Relax-GTK"
 
 Update: gtkrc
 
+Aurorae Themes
+---------------
+
+Update: shade.svg
+
 
 
 
