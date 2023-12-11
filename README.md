@@ -2006,6 +2006,25 @@ Update: styles
 
 
 
+Changelog: 11.12.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Added icon: telegram.svg
+
+GTK Themes "Relax-GTK"
+--------------------
+
+Update: gtkrc
+
+
 
 
 
