@@ -2047,6 +2047,11 @@ Aurorae Themes
 
 Update: decoration.svg
 
+GTK Themes "Relax-GTK"
+----------------------
+
+Update: checkbox-checked-hover.png
+
 
 
 
