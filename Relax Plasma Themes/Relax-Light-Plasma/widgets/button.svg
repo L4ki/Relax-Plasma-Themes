@@ -5,7 +5,7 @@
    version="1"
    id="svg270"
    sodipodi:docname="button.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -14,17 +14,17 @@
   <sodipodi:namedview
      id="namedview272"
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="#0d0d0d"
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="95.999999"
-     inkscape:cy="54.25"
+     inkscape:zoom="4.0203304"
+     inkscape:cx="81.834071"
+     inkscape:cy="53.353824"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -32,12 +32,16 @@
      showguides="true"
      inkscape:lockguides="false"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid8101"
        originx="-1"
-       originy="2" />
+       originy="2"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs5">
