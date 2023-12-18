@@ -5,7 +5,7 @@
    version="1.1"
    id="svg111"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -14,7 +14,7 @@
   <sodipodi:namedview
      id="namedview987"
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="#0d0d0d"
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -22,20 +22,27 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.28"
-     inkscape:cx="148.82812"
-     inkscape:cy="202.73438"
+     inkscape:zoom="0.90969692"
+     inkscape:cx="237.44172"
+     inkscape:cy="230.29648"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg111"
-     inkscape:showpageshadow="false"
-     inkscape:lockguides="false">
+     inkscape:showpageshadow="true"
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
-       id="grid1002" />
+       id="grid1002"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="rounded">
