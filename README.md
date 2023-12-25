@@ -2052,6 +2052,31 @@ GTK Theme "Relax-GTK"
 
 Update: checkbox-checked-hover.png
 
+Changelog: 25.12.2023.
+----------------------
+
+GTK Theme "Relax-GTK"
+----------------------
+
+Update: checkbox-checked-hover.png
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Themes
+-------------
+
+Update widget: containment-controls.svg
+
+Aurorae Themes
+---------------
+
+Update: alldesktops.svg
+
+
+
 
 
 
