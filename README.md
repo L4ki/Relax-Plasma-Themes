@@ -2094,7 +2094,7 @@ Aurorae Themes
 Update: keepbelow.svg
 
 
-Changelog: 01.01.2024.
+Changelog: 10.01.2024.
 ----------------------
 
 Icons
