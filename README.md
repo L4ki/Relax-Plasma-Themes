@@ -2094,6 +2094,15 @@ Aurorae Themes
 Update: keepbelow.svg
 
 
+Changelog: 01.01.2024.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+
 
 
 
