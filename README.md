@@ -2102,6 +2102,14 @@ Icons
 
 Added new icons: apps 48
 
+Changelog: 01.01.2024.
+----------------------
+
+Plasma Themes
+-------------
+
+Update widget: radiobutton.svg
+
 
 
 
