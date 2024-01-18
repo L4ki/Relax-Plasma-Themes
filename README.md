@@ -2118,6 +2118,16 @@ Icons
 
 Added new icons: apps 48
 
+Plasma Themes
+-------------
+
+Added icon: solaar.svg
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
+
 
 
 
