@@ -36,7 +36,7 @@ Screenshots:
 ![Screenshot_20220926_091656](https://user-images.githubusercontent.com/45247573/216028619-cb61189f-154c-4116-9e66-1800a56f0b82.jpg)
 
 
-Changelog: 25.01.2024.
+Changelog: 01.02.2024.
 ----------------------
 
 Icons
@@ -47,12 +47,12 @@ Added new icons: apps 48
 Plasma Themes
 -------------
 
-Update widget: actionbutton.svg
+Added icon: sogoupinyin.svg
 
 Aurorae Themes
 ---------------
 
-Update:  keepabove.svg
+Update: close.svg
 
 GTK Themes
 ----------
