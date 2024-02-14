@@ -63,30 +63,6 @@ Screenshots:
 ____________________________________________________________________________________________________________________________________
 
 
-Changelog: 15.02.2024.
-----------------------
-
-Icons
-------
-
-Added new icons: apps 48
-
-Plasma Themes
--------------
-
-Update widget: arrows.svg
-
-Aurorae Themes
----------------
-
-Update: help.svg
-
-GTK Themes "Relax-Light-GTK" and "Relax-GTK"
--------------------------------------------
-
-Update: main.rc, gtkrc
-
-
 
 
 
