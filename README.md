@@ -25,7 +25,32 @@ Download: https://www.pling.com/p/1692891
   </body>
 </html>
 
+___________________________________________________________
 
+Changelog: 15.02.2024.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Themes
+-------------
+
+Update widget: arrows.svg
+
+Aurorae Themes
+---------------
+
+Update: help.svg
+
+GTK Themes "Relax-Light-GTK" and "Relax-GTK"
+-------------------------------------------
+
+Update: main.rc, gtkrc
+
+__________________________________________
 
 Screenshots:
 -------------
