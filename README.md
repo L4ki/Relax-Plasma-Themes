@@ -38,7 +38,7 @@ Screenshots:
 ____________________________________________________________________________________________________________________________________
 
 
-Changelog: 01.02.2024.
+Changelog: 15.02.2024.
 ----------------------
 
 Icons
@@ -49,17 +49,17 @@ Added new icons: apps 48
 Plasma Themes
 -------------
 
-Added icon: sogoupinyin.svg
+Update widget: arrows.svg
 
 Aurorae Themes
 ---------------
 
-Update: close.svg
+Update: help.svg
 
-GTK Themes
-----------
+GTK Themes "Relax-Light-GTK" and "Relax-GTK"
+-------------------------------------------
 
-Update: gtk-4.0
+Update: main.rc, gtkrc
 
 
 
