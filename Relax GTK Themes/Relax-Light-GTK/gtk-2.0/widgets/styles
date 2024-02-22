@@ -40,13 +40,13 @@ widget_class "*<GtkCombo>.<GtkButton>"                      style "combobox_entr
 widget_class "*<GtkFileChooserDialog>*GtkToggleButton*"     style "toolbuttons"
 widget_class "*<GtkFileChooserDialog>*GtkComboBox*"         style "button"
 widget_class "*<GtkNotebook>.<GtkLabel>"                    style "notebook_tab_label"
-widget "gtk-tooltip*"                                       style "tooltips"
+widget "gtk-tooltip*"style "tooltips"
 
 # Xchat special cases
-widget "*xchat-inputbox"                                    style "entry"
+widget "*xchat-inputbox"style "entry"
 
 # Chrome/Chromium
-widget_class "*Chrom*Button*"       style "button"
-widget "*swt*toolbar*"              style "toolbuttons"
+widget_class "*Chrom*Button*"style "button"
+widget "*swt*toolbar*"style "toolbuttons"
 
-class "GtkWindow"                                                   style "toplevel_hack"
+class "GtkWindow"style "toplevel_hack"
