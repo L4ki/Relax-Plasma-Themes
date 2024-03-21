@@ -30,20 +30,25 @@ ___________________________________________________________
 Changelog: 21.03.2024.
 ----------------------
 
-Icons
-------
+Icons "Relax-Light-Icons"
+-----------------------
 
 Update icons: actions
 
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: tasks
+Update widget: tasks.svg
 
 Aurorae Themes
 ---------------
 
 Added Aurorae Themes for Plasma 6
+
+Splashscreen
+------------
+
+Added Splashscreen For Plasma 6
 __________________________________________
 
 Screenshots:
