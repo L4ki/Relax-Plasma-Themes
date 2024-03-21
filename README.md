@@ -27,23 +27,23 @@ Download: https://www.pling.com/p/1692891
 
 ___________________________________________________________
 
-Changelog: 29.02.2024.
+Changelog: 21.03.2024.
 ----------------------
 
 Icons
 ------
 
-Added new icons: apps 48
+Update icons: actions
 
-Plasma Themes
--------------
+Plasma Theme "Relax-Light-Plasma"
+--------------------------------
 
-Update widget: background.svg (dialogs)
+Update widget: tasks
 
 Aurorae Themes
 ---------------
 
-Update: minimize.svg
+Added Aurorae Themes for Plasma 6
 __________________________________________
 
 Screenshots:
