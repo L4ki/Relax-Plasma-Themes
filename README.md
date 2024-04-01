@@ -45,6 +45,10 @@ Aurorae Themes
 
 Update: metadata.desktop
 
+"Relax-Light-GTK"
+-----------------
+
+Update: gtk-4.0
 
 __________________________________________
 
