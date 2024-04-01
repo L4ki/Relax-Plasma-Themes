@@ -27,28 +27,25 @@ Download: https://www.pling.com/p/1692891
 
 ___________________________________________________________
 
-Changelog: 21.03.2024.
+Changelog: 01.04.2024.
 ----------------------
 
-Icons "Relax-Light-Icons"
------------------------
+Icons 
+-----
 
-Update icons: actions
+Added new icons: apps 48
 
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: tasks.svg
+Update widget: listitem.svg
 
 Aurorae Themes
 ---------------
 
-Added Aurorae Themes for Plasma 6
+Update: metadata.desktop
 
-Splashscreen
-------------
 
-Added Splashscreen For Plasma 6
 __________________________________________
 
 Screenshots:
