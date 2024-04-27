@@ -27,23 +27,28 @@ Download: https://www.pling.com/p/1692891
 
 ___________________________________________________________
 
-Changelog: 08.04.2024.
+Changelog: 27.04.2024.
 ----------------------
 
-Icons 
------
+GTK Theme (Light)
+-----------------
 
-Added new icons: apps 48
+Update: styles
+
+Icons (Light)
+-------------
+
+Update icons: apps 32, 48
 
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update: metadata.desktop
+Update widget: button.svg
 
 Aurorae Themes
 ---------------
 
-Update: decoration.svg
+Update: metadata.desktop
 
 __________________________________________
 
