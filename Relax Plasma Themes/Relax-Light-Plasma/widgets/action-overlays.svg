@@ -5,7 +5,7 @@
    height="75.000008"
    width="72"
    sodipodi:docname="action-overlays.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -15,29 +15,34 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="namedview45"
-     pagecolor="#e8e8e8"
-     bordercolor="#000000"
+     pagecolor="#ffffff"
+     bordercolor="#050505"
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="3.8875"
-     inkscape:cx="34.855306"
-     inkscape:cy="33.569132"
+     inkscape:zoom="5.4977552"
+     inkscape:cx="34.741452"
+     inkscape:cy="49.383792"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:lockguides="true"
-     inkscape:showpageshadow="true">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid2841"
        originx="2.1651943e-05"
-       originy="-4.3648437e-05" />
+       originy="-4.3648437e-05"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs7231">
