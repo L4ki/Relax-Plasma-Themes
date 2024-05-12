@@ -27,7 +27,7 @@ Download: https://www.pling.com/p/1692891
 
 ___________________________________________________________
 
-Changelog: 05.05.2024.
+Changelog: 12.05.2024.
 ----------------------
 
 Icons
@@ -38,7 +38,7 @@ Added new icons: apps 48
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: action-overlays.svg
+Update widget: clock.svg
 
 Aurorae Themes
 ---------------
