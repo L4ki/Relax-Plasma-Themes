@@ -1,0 +1,36 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Relax-Global-6",
+        "Description": "Relax Global Theme by l4k1",
+        "Id": "Relax-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Relax-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2133854",
+        "kns://window-decorations.knsrc/api.kde-look.org/2133852",
+        "kns://colorschemes.knsrc/api.kde-look.org/1687607",
+        "kns://colorschemes.knsrc/api.kde-look.org/1687605",
+        "kns://icons.knsrc/api.kde-look.org/1687609",
+        "kns://icons.knsrc/api.kde-look.org/1687608",
+        "kns://icons.knsrc/api.kde-look.org/2078422",
+        "kns://icons.knsrc/api.kde-look.org/2078427",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1687614",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2140584",
+        "kns://wallpaper.knsrc/api.kde-look.org/1687588",
+        "kns://wallpaper.knsrc/api.kde-look.org/1463678"
+    ]
+}
