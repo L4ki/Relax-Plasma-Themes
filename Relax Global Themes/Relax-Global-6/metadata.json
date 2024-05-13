@@ -20,8 +20,8 @@
         "Website": "https://github.com/L4ki/Relax-Plasma-Themes"
     },
     "X-KPackage-Dependencies": [
-        "kns://window-decorations.knsrc/api.kde-look.org/2133854",
-        "kns://window-decorations.knsrc/api.kde-look.org/2133852",
+        "kns://window-decorations.knsrc/api.kde-look.org/2154499",
+        "kns://window-decorations.knsrc/api.kde-look.org/2154498",
         "kns://colorschemes.knsrc/api.kde-look.org/1687607",
         "kns://colorschemes.knsrc/api.kde-look.org/1687605",
         "kns://icons.knsrc/api.kde-look.org/1687609",
@@ -29,7 +29,7 @@
         "kns://icons.knsrc/api.kde-look.org/2078422",
         "kns://icons.knsrc/api.kde-look.org/2078427",
         "kns://plasma-themes.knsrc/api.kde-look.org/1687614",
-        "kns://sddmtheme.knsrc/api.kde-look.org/2140584",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2154497",
         "kns://wallpaper.knsrc/api.kde-look.org/1687588",
         "kns://wallpaper.knsrc/api.kde-look.org/1463678"
     ]
