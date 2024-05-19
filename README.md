@@ -27,7 +27,7 @@ Download: https://www.pling.com/p/1692891
 
 ___________________________________________________________
 
-Changelog: 12.05.2024.
+Changelog: 19.05.2024.
 ----------------------
 
 Relax-Light-GTK
@@ -43,7 +43,7 @@ Added new icons: apps 48
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: clock.svg
+Update widget: menubaritem.svg
 
 Aurorae Themes
 ---------------
