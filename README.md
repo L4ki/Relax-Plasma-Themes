@@ -50,28 +50,23 @@ Aurorae Themes
 
 Update: metadata.desktop
 
-Changelog: 13.05.2024.
+Changelog: 20.05.2024.
 ----------------------
 
 Relax-GTK
 ---------------
 
-Update: hacks.rc
+Update: gtk-3.0
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: tasks.svg
+Update widget: clock.svg
 
 Aurorae Themes
 ---------------
 
 Update: metadata.desktop
-
-Kvantum Theme
---------------
-
-Update: Relax-Kvantum.kvconfig
 
 __________________________________________
 
