@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    width="200"
    height="200"
    sodipodi:docname="clock.svg"
@@ -19,7 +19,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -30,9 +30,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.0101652"
-     inkscape:cx="96.509479"
-     inkscape:cy="127.10398"
+     inkscape:zoom="2.8428029"
+     inkscape:cx="92.514328"
+     inkscape:cy="121.53498"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -85,6 +85,18 @@
   </metadata>
   <defs
      id="defs5">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#c0c5d9;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#489ab1;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4011">
       <stop
@@ -316,6 +328,15 @@
        fy="382.72916"
        r="96.605507"
        gradientTransform="matrix(1.0765432,0,0,1.0765432,-334.53758,167.99246)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="589.18341"
+       y1="1011.7082"
+       x2="603.17725"
+       y2="1011.7571"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -615,7 +636,8 @@
        xlink:href="#rect5450"
        style="opacity:0.7;fill:#1f252f;fill-opacity:1;stroke:none"
        id="path4679"
-       inkscape:href="#rect5450" />
+       inkscape:href="#rect5450"
+       d="m 976.55664,550.60156 1.44336,3.15625 33.3535,25.05664 2.0059,-2.75586 -33.30081,-25.01953 h -0.002 z" />
     <circle
        style="fill:#c0c5d9;fill-opacity:1;stroke:none"
        id="path5455-2"
@@ -631,37 +653,8 @@
        xlink:href="#path5455-2"
        style="fill:#c0c5d9;fill-opacity:1;stroke:none"
        id="path4681"
-       inkscape:href="#path5455-2" />
-  </g>
-  <g
-     inkscape:label="#g6188"
-     style="fill:#717171;fill-opacity:1"
-     transform="rotate(120.21865,681.04377,67.743704)"
-     inkscape:transform-center-y="36.661562"
-     inkscape:transform-center-x="-0.046410759"
-     id="MinuteHand">
-    <rect
-       style="opacity:0.01;fill:#1f252f;fill-opacity:1;stroke:none"
-       id="rect4675"
-       width="12.000004"
-       height="85"
-       x="-1021.052"
-       y="580.65826"
-       transform="rotate(-120.21865)" />
-    <path
-       style="fill:#c0c5d9;fill-opacity:1;stroke:none"
-       d="m 1020.0411,578.7666 65.457,-38.09608 1.8286,0.5953 -0.3195,1.99752 -65.4571,38.09609 z"
-       id="rect5459"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
-    <circle
-       id="path5457"
-       style="fill:#c0c5d9;fill-opacity:1;stroke:none;stroke-width:0.564751"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       cx="1017.9764"
-       cy="581.67493"
-       r="3.6705737" />
+       inkscape:href="#path5455-2"
+       d="m 1017.4629,576.21484 c -1.3094,-1.1e-4 -2.6112,0.53896 -3.5371,1.46485 -0.9259,0.92589 -1.465,2.2277 -1.4649,3.53711 -1e-4,1.30941 0.539,2.61121 1.4649,3.53711 0.9259,0.92589 2.2277,1.46495 3.5371,1.46484 1.3091,-2.9e-4 2.6096,-0.53899 3.5351,-1.46484 0.9256,-0.92586 1.465,-2.22796 1.4649,-3.53711 10e-5,-1.30916 -0.5393,-2.61126 -1.4649,-3.53711 -0.9255,-0.92586 -2.226,-1.46455 -3.5351,-1.46485 z" />
   </g>
   <g
      transform="rotate(120.04085,710.50009,83.526851)"
@@ -670,7 +663,7 @@
      inkscape:transform-center-y="37.602839"
      inkscape:label="#g6210">
     <rect
-       style="fill:#c0c5d9;fill-opacity:1;stroke:none"
+       style="fill:url(#linearGradient2);fill-opacity:1;stroke:none"
        id="rect6212"
        width="82.588051"
        height="2.1960878"
@@ -691,7 +684,7 @@
        width="8.0000019"
        height="6.999999"
        x="-1016.1953"
-       y="583.71582"
+       y="583.7157"
        transform="rotate(-120.04085)" />
   </g>
   <g
@@ -726,25 +719,21 @@
        y="97"
        transform="rotate(-120.04085,705.50009,80.642475)" />
   </g>
-  <path
-     sodipodi:type="arc"
-     style="opacity:0.001;fill:#1f252f;fill-opacity:1;stroke:none"
+  <circle
+     style="opacity:0.00100002;fill:#1f252f;fill-opacity:1;stroke:none"
      id="HandCenterScrew"
-     sodipodi:cx="-50"
-     sodipodi:cy="100"
-     sodipodi:rx="5"
-     sodipodi:ry="5"
-     inkscape:label="#path4580" />
-  <path
-     sodipodi:type="arc"
+     inkscape:label="#path4580"
+     cx="-50"
+     cy="100"
+     r="5" />
+  <circle
      style="opacity:0.00100002;fill:#232629;fill-opacity:1;stroke:none"
      id="Glass"
-     sodipodi:cx="-195"
-     sodipodi:cy="100"
-     sodipodi:rx="45"
-     sodipodi:ry="45"
      transform="matrix(1.5739209,0,0,1.5739209,111.91458,-57.39209)"
-     inkscape:label="#path4584" />
+     inkscape:label="#path4584"
+     cx="-195"
+     cy="100"
+     r="45" />
   <g
      id="MinuteHandShadow"
      inkscape:transform-center-x="-0.046410759"
@@ -794,7 +783,7 @@
        r="6.4994531"
        cy="382.03223"
        cx="1771.3964"
-       style="fill:#1f252f;fill-opacity:1;stroke:none;opacity:0.85"
+       style="opacity:0.85;fill:#1f252f;fill-opacity:1;stroke:none"
        id="path5455-2-3"
        transform="translate(-753.93395,199.18469)"
        inkscape:export-xdpi="90"
@@ -807,4 +796,29 @@
      height="2"
      x="100"
      y="70" />
+  <g
+     id="MinuteHand">
+    <rect
+       style="opacity:0.01;fill:#1f252f;fill-opacity:1;stroke:none"
+       id="rect4675"
+       width="12.000004"
+       height="85"
+       x="61.299999"
+       y="94.000031" />
+    <path
+       style="fill:#c0c5d9;fill-opacity:1;stroke:none"
+       d="m 68.845475,103.47657 -0.02535,75.73592 -1.434742,1.2805 -1.565274,-1.28144 0.02539,-75.73601 z"
+       id="rect5459"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <circle
+       id="path5457"
+       style="fill:#c0c5d9;fill-opacity:1;stroke:none;stroke-width:0.564751"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       cx="52.700512"
+       cy="-108.6617"
+       r="3.6705737"
+       transform="rotate(120.21865)" />
+  </g>
 </svg>
