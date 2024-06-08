@@ -27,13 +27,13 @@ Download: https://www.pling.com/p/1692891
 
 ___________________________________________________________
 
-Changelog: 02.06.2024.
+Changelog: 09.06.2024.
 ----------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: gtk-4.0
+Update: styles
 
 Icons
 ------
@@ -43,7 +43,7 @@ Added new icons: apps 48
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: slider.svg
+Update widget: margins-highlight.svg
 
 Aurorae Themes
 ---------------
