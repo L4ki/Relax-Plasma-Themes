@@ -4,7 +4,7 @@
    height="10.01252"
    id="svg7080"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    version="1.0"
    sodipodi:docname="margins-highlight.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -19,18 +19,18 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#eff0f1"
-     bordercolor="#000000"
+     bordercolor="#030303"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.48"
-     inkscape:cx="8.9355469"
-     inkscape:cy="4.8339844"
+     inkscape:zoom="40.96"
+     inkscape:cx="5.7373047"
+     inkscape:cy="6.7993164"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-global="true"
@@ -50,11 +50,12 @@
      inkscape:document-rotation="0"
      inkscape:showpageshadow="false"
      inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid7342"
-       visible="true"
+       visible="false"
        enabled="true"
        empspacing="5"
        snapvisiblegridlinesonly="true"
@@ -63,7 +64,10 @@
        empcolor="#0000ff"
        empopacity="0.03921569"
        originx="-50"
-       originy="-237.98447" />
+       originy="-237.98447"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs7082">
