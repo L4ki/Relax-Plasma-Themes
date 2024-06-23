@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="43.999958"
    height="44"
    viewBox="0 0 43.999957 43.999999"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="arrows.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="arrows.svg">
+  <style
+     id="style846"></style>
   <defs
      id="defs4">
     <style
@@ -21,12 +24,12 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#cccccc"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.352941"
+     inkscape:zoom="13.735657"
      inkscape:cx="22.637306"
      inkscape:cy="23.077721"
      inkscape:document-units="px"
@@ -50,7 +53,8 @@
      inkscape:pagecheckerboard="0"
      scale-x="1"
      inkscape:lockguides="true"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#cccccc"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4160"
@@ -66,7 +70,12 @@
      id="metadata7">
     <rdf:RDF>
       <cc:Work
-         rdf:about="" />
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
