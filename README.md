@@ -61,7 +61,7 @@ Update: main.rc
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: arrowst.svg
+Update widget: arrows.svg
 
 Aurorae Themes
 ---------------
