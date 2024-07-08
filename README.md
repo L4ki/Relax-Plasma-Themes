@@ -50,18 +50,18 @@ Aurorae Themes
 
 Update: metadata.desktop
 
-Changelog: 01.07.2024.
+Changelog: 08.07.2024.
 ----------------------
 
 Relax-GTK
 ---------------
 
-Update: styles
+Update: hacks.rc
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: bar_meter_horizontal.svg
+Update widget: bar_meter_vertical.svg
 
 Aurorae Themes
 ---------------
