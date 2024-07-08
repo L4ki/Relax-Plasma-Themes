@@ -6,7 +6,6 @@
 #
 # Either way, it's a WONTFIX for both, hence this horrible file.
 
-
 style "toplevel_hack" {
   engine "adwaita" {}
 }
