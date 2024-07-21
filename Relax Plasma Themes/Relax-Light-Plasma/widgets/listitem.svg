@@ -36,12 +36,12 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="4"
-     inkscape:cx="68.75"
-     inkscape:cy="82.5"
+     inkscape:zoom="4.3043722"
+     inkscape:cx="55.292616"
+     inkscape:cy="44.95429"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="g2549"
+     inkscape:current-layer="svg2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6338,20 +6338,16 @@
        id="separator1" />
   </g>
   <g
-     id="g2549"
-     transform="translate(0,10)">
-    <g
-       id="hover-center">
-      <rect
-         style="color:#565d8a;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#556fa6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate;stop-color:#565d8a"
-         id="section-center-1"
-         width="6"
-         height="6"
-         x="92.000008"
-         y="19.000044"
-         inkscape:label="#section-center"
-         class="ColorScheme-Highlight" />
-    </g>
+     id="hover-center">
+    <rect
+       style="color:#565d8a;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#556fa6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate;stop-color:#565d8a"
+       id="section-center-1"
+       width="6"
+       height="6"
+       x="92.000008"
+       y="29.000044"
+       inkscape:label="#section-center"
+       class="ColorScheme-Highlight" />
   </g>
   <g
      id="hover-top"
@@ -6516,7 +6512,7 @@
        height="2.99998"
        x="15"
        y="99.000023"
-       transform="matrix(1,0,0,1.6666718,78.000008,-155.0005)" />
+       transform="matrix(1,0,0,1.6666718,78.000008,-162.20055)" />
   </g>
   <g
      id="hover-hint-right-margin"
