@@ -56,12 +56,12 @@ Changelog: 19.08.2024.
 Relax-GTK
 ---------------
 
-Update: gtk-4.0
+Update: styles
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: viewitem.svg
+Update widget: containment-controls.svg
 
 Aurorae Themes
 ---------------
