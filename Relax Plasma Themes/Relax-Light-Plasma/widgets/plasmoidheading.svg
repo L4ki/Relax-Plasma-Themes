@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="plasmoidheading.svg"
    version="1.1"
    viewBox="0 0 118.9 55.700001"
@@ -34,12 +34,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="31.328072"
+     inkscape:cy="31.24363"
      inkscape:cx="56.576303"
      inkscape:zoom="5.921207"
      showgrid="false"
      id="namedview39"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -49,15 +49,19 @@
      borderopacity="1"
      bordercolor="#000000"
      pagecolor="#ffffff"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid865"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <style
      type="text/css"
