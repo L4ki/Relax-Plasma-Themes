@@ -78,6 +78,11 @@ Aurorae Themes
 
 Update: metadata.desktop
 
+Icons
+------
+
+Added new icons: apps 48
+
 
 
 
