@@ -37,13 +37,13 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 15.09.2024. (Relax-Light)
+Changelog: 23.09.2024. (Relax-Light)
 ------------------------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: gtkrc
+Update: gtk-4.0
 
 Icons
 ------
@@ -53,25 +53,26 @@ Added new icons: apps 48
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: plasmoidheading.svg
+Update widget: radiobutton.svg
 
 Aurorae Themes
 ---------------
 
 Update: metadata.desktop
+________________________
 
-Changelog: 16.09.2024. (Relax-Dark)
+Changelog: 23.09.2024. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
 ---------------
 
-Update: gtkrc
+Update: hacks-dark
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: plasmoidheading.svg
+Update widget: radiobutton.svg
 
 Aurorae Themes
 ---------------
