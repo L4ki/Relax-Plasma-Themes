@@ -72,7 +72,7 @@ Update: apps.rc
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: linesvg
+Update widget: line.svg
 
 Aurorae Themes
 ---------------
