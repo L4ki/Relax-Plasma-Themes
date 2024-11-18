@@ -2,7 +2,7 @@
 <svg
    height="25"
    width="25"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="busywidget.svg"
    xml:space="preserve"
    viewBox="0 0 24.999998 24.999999"
@@ -43,9 +43,9 @@
    inkscape:window-maximized="1"
    inkscape:window-y="0"
    inkscape:window-x="0"
-   inkscape:cy="45.873552"
-   inkscape:cx="15.733126"
-   inkscape:zoom="5.6568543"
+   inkscape:cy="18.73833"
+   inkscape:cx="13.656"
+   inkscape:zoom="11.313709"
    showgrid="false"
    id="namedview47"
    inkscape:window-height="994"
@@ -63,7 +63,7 @@
    inkscape:pagecheckerboard="0"
    width="24px"
    inkscape:lockguides="true"
-   inkscape:deskcolor="#d1d1d1"><inkscape:grid
+   inkscape:deskcolor="#cccccc"><inkscape:grid
      type="xygrid"
      id="grid1324"
      originx="0"
