@@ -64,7 +64,6 @@ headerbar button.titlebutton.minimize:backdrop:active, .titlebar button.titlebut
 .maximized headerbar button.titlebutton.maximize:backdrop, .maximized .titlebar button.titlebutton.maximize:backdrop {
   background-image: url("assets/maximized-backdrop-normal.svg"); }
 
-
 .maximized headerbar button.titlebutton.maximize:backdrop:hover, .maximized .titlebar button.titlebutton.maximize:backdrop:hover {
   background-image: url("assets/maximized-backdrop-hover.svg"); }
 
