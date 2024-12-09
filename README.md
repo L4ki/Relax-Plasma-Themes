@@ -37,23 +37,23 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 02.12.2024. (Relax-Light)
+Changelog: 09.12.2024. (Relax-Light)
 ------------------------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: window_decorations.css
+Update: styles
 
 Icons
 ------
 
-Update: icon-theme.cache
+Added new icons: apps 48
 
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: translucentbackground.svg
+Update widget: scrollwidget.svg
 
 Aurorae Themes
 ---------------
@@ -61,18 +61,18 @@ Aurorae Themes
 Update: metadata.desktop
 ________________________
 
-Changelog: 02.12.2024. (Relax-Dark)
+Changelog: 09.12.2024. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
 ---------------
 
-Update: main.rc
+Update: styles
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: translucentbackground.svg
+Update widget: scrollwidget.svg
 
 Aurorae Themes
 ---------------
@@ -82,7 +82,7 @@ Update: metadata.desktop
 Icons
 ------
 
-Update: icon-theme.cache
+Added new icons: apps 48
 
 
 
