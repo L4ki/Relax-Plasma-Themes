@@ -37,13 +37,13 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 16.12.2024. (Relax-Light)
+Changelog: 23.12.2024. (Relax-Light)
 ------------------------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: gtk-3.0
+Update: gtkrc
 
 Icons
 ------
@@ -53,7 +53,7 @@ Added new icons: apps 48
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: plot-background.svg
+Update widget: picker.svg
 
 Aurorae Themes
 ---------------
@@ -61,18 +61,18 @@ Aurorae Themes
 Update: metadata.desktop
 ________________________
 
-Changelog: 16.12.2024. (Relax-Dark)
+Changelog: 23.12.2024. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
 ---------------
 
-Update: hacks.rc
+Update: gtk-3.0
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: plot-background.svg
+Update widget: picker.svg
 
 Aurorae Themes
 ---------------
