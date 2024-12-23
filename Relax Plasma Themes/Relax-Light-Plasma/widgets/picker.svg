@@ -6,7 +6,7 @@
    height="25.999989"
    id="svg31290"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="picker.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -96,19 +96,19 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
-     bordercolor="#0618ff"
+     bordercolor="#0012ff"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.8994949"
-     inkscape:cx="-13.788582"
-     inkscape:cy="6.4144687"
+     inkscape:cx="-13.738075"
+     inkscape:cy="6.4649763"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -124,7 +124,10 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="-31.040037"
-       originy="-16" />
+       originy="-16"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata31295">
