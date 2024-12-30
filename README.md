@@ -61,7 +61,7 @@ Aurorae Themes
 Update: metadata.desktop
 ________________________
 
-Changelog:30.12.2024. (Relax-Dark)
+Changelog: 30.12.2024. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
