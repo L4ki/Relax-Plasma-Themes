@@ -72,7 +72,7 @@ Update: apps.rc
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update:metadata.desktop
+Update: metadata.desktop
 
 Aurorae Themes
 ---------------
