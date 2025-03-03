@@ -37,13 +37,13 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 24.02.2025. (Relax-Light)
+Changelog: 03.03.2025. (Relax-Light)
 ------------------------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: gtk-3.0
+Update: gtkrc
 
 Icons
 ------
@@ -55,27 +55,16 @@ Plasma Theme "Relax-Light-Plasma"
 
 Update:metadata.desktop
 
-Aurorae Themes
----------------
-
-Update: metadata.desktop
-________________________
-
-Changelog: 24.02.2025. (Relax-Dark)
+Changelog: 03.03.2025. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
 ---------------
 
-Update: apps.rc
+Update: gtkrc
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
-
-Update: metadata.desktop
-
-Aurorae Themes
----------------
 
 Update: metadata.desktop
 
