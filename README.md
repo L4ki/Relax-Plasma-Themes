@@ -37,31 +37,31 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 19.05.2025. (Relax-Light)
+Changelog: 26.05.2025. (Relax-Light)
 ------------------------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: gtk-4.0
+Update: styles
 
 Icons
 ------
 
-Added new icons: categoties 22
+Added new icons: apps 48
 
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
 Update:metadata.desktop
 
-Changelog: 19.05.2025. (Relax-Dark)
+Changelog: 26.05.2025. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
 ---------------
 
-Update: main.rc
+Update: styles
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
@@ -71,8 +71,7 @@ Update: metadata.desktop
 Icons
 ------
 
-Added new icons: categoties 22
-
+Added new icons: apps 48
 
 
 
