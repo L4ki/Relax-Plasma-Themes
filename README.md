@@ -37,13 +37,13 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 09.06.2025. (Relax-Light)
+Changelog: 16.06.2025. (Relax-Light)
 ------------------------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: gtkrc
+window_decorations.css
 
 Icons
 ------
@@ -53,7 +53,7 @@ Added new icons: apps 48
 Plasma Theme "Relax-Light-Plasma"
 --------------------------------
 
-Update widget: menubaritem.svg
+Update: metadata.desktop
 
 Changelog: 09.06.2025. (Relax-Dark)
 -----------------------------------
@@ -61,12 +61,12 @@ Changelog: 09.06.2025. (Relax-Dark)
 Relax-GTK
 ---------------
 
-Update: gtk-3.0
+Update: apps.rc
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
 
-Update widget: menubaritem.svg
+Update: metadata.desktop
 
 Icons
 ------
