@@ -35,7 +35,7 @@ widget_class "*<GtkComboBox>*<GtkSeparator>"                style "combobox_sepa
 widget_class "*<GtkComboBox>.<GtkButton>*<GtkSeparator>"    style "combobox_separator"
 widget_class "*<GtkComboBoxEntry>*"                         style "combobox_entry"
 widget_class "*<GtkComboBoxEntry>*<GtkButton>"style "combobox_entry_button"
-widget_class "*<GtkCombo>*" style "combobox_entry"
+widget_class "*<GtkCombo>*"style "combobox_entry"
 widget_class "*<GtkCombo>.<GtkButton>"style "combobox_entry_button"
 widget_class "*<GtkFileChooserDialog>*GtkToggleButton*"style "toolbuttons"
 widget_class "*<GtkFileChooserDialog>*GtkComboBox*"style "button"
