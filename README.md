@@ -37,13 +37,13 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 07.07.2025. (Relax-Light)
+Changelog: 14.07.2025. (Relax-Light)
 ------------------------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: gtk-3.0
+Update: gtkrc
 
 Icons
 ------
@@ -55,13 +55,13 @@ Plasma Theme "Relax-Light-Plasma"
 
 Update: metadata.desktop
 
-Changelog: 07.07.2025. (Relax-Dark)
+Changelog: 14.07.2025. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
 ---------------
 
-Update: gtk-4.0
+Update: main.rc
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
