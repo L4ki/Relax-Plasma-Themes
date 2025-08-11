@@ -37,18 +37,13 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 04.08.2025. (Relax-Light)
+Changelog: 11.08.2025. (Relax-Light)
 ------------------------------------
-
-Relax-Light-SDDM-6
-------------------
-
-Update: Main.qml
 
 Relax-Light-GTK
 ---------------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Icons
 ------
@@ -60,13 +55,13 @@ Plasma Theme "Relax-Light-Plasma"
 
 Update: metadata.desktop
 
-Changelog: 04.08.2025. (Relax-Dark)
+Changelog: 11.08.2025. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
 ---------------
 
-Update: gtk-3.0
+Update: apps.rc
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
