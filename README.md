@@ -37,13 +37,13 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelog: 22.09.2025. (Relax-Light)
+Changelog: 29.09.2025. (Relax-Light)
 ------------------------------------
 
 Relax-Light-GTK
 ---------------
 
-Update: window_decorations.css
+Update: hacks.rc
 
 Icons
 ------
@@ -55,13 +55,13 @@ Plasma Theme "Relax-Light-Plasma"
 
 Update: metadata.desktop
 
-Changelog: 22.09.2025. (Relax-Dark)
+Changelog: 29.09.2025. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
 ---------------
 
-Update: hacks.rc
+Update: gtk-3.0
 
 Plasma Theme "Relax-Plasma"
 --------------------------------
