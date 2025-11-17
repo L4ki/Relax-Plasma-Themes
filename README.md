@@ -55,7 +55,7 @@ Plasma Theme "Relax-Light-Plasma"
 
 Update: metadata.desktop
 
-Changelog: 10.11.2025. (Relax-Dark)
+Changelog: 17.11.2025. (Relax-Dark)
 -----------------------------------
 
 Relax-GTK
